@@ -6,4 +6,8 @@
 
 # Ignore python bytecode
 __pycache__/
+<<<<<<< HEAD
 *.pyc
+=======
+*.pyc
+>>>>>>> learning
