@@ -1,0 +1,940 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/bsoe_specific/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Baskin Engineering Courses</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_vbK3xwxHuzEixjQzllfiGwlhVh3XpvAGjSOdIPVY5K8.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_A_tQWYYTget7-f8YhlUkiuWfWjYVCdTavI6tzdON4sc.css" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Roboto|Open+Sans:100,400,700" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_mSHrRGEByczFEMXez9SsrL_mbdMYvDaibguR5wcrAGE.css" />
+
+    
+  </head>
+  <body class="path-courses">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+  <header role="banner">
+        <div class="region region-header">
+    <div id="block-bsoe-specific-site-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="https://engineering.ucsc.edu/" title="Home" rel="home" class="site-logo">
+      <img src="/themes/custom/bsoe_specific/logo.svg" alt="Home" />
+    </a>
+  
+  <div class="site-branding">
+              <div class="site-name">
+          <a href="/" title="Home" rel="home">Baskin Engineering Courses</a>
+        </div>
+              </div>
+
+</div>
+
+  </div>
+
+        <div class="region region-secondary-menu">
+    <div id="block-loginsso" class="block block-block-content block-block-contentd880c4cc-20ce-40a4-ac12-326acd894e0e">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><nav role="navigation" aria-labelledby="block-bsoe-specific-account-menu-menu" id="block-bsoe-specific-account-menu" class="block block-menu navigation menu--account"><h2 class="visually-hidden" id="block-bsoe-specific-account-menu-menu">User account menu</h2>
+  
+
+        
+              <ul class="menu"><li class="menu-item">
+        <a href="/saml_login">Log in</a>
+              </li>
+        </ul></nav></div>
+      
+  </div>
+
+  </div>
+
+
+  </header>
+    <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+
+<div class="layout-container">
+
+    
+
+
+    
+
+      
+
+      
+
+  <main role="main">
+    <a id="main-content" tabindex="-1"></a>
+      
+            <div class="region region-primary-menu">
+    <nav role="navigation" aria-labelledby="block-bsoe-specific-main-menu-menu" id="block-bsoe-specific-main-menu" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-bsoe-specific-main-menu-menu">Main navigation</h2>
+  
+
+        
+							<div id="navigation-button-wrapper">
+				<div id="navigation-button">
+					Calendars
+				</div>
+			</div>
+			<nav id="main-nav" role="navigation">
+				<ul id="main-menu" class="sm sm-simple">
+					<li id="main-menu-title-wrapper">
+						<h5 id="main-menu-title">
+							Calendars
+						</h5>
+                    </li>
+																					<li>
+									<a href="/courses/am" data-drupal-link-system-path="courses/am">Applied Mathematics</a>
+																	</li>
+															<li>
+									<a href="/courses/bme" data-drupal-link-system-path="courses/bme">Biomolecular Engineering</a>
+																	</li>
+															<li>
+									<a href="/courses/cmpm" data-drupal-link-system-path="courses/cmpm">Computational Media</a>
+																	</li>
+															<li>
+									<a href="/courses/cse" data-drupal-link-system-path="courses/cse">Computer Science and Engineering</a>
+																	</li>
+															<li>
+									<a href="/courses/ece" data-drupal-link-system-path="courses/ece">Electrical and Computer Engineering</a>
+																	</li>
+															<li>
+									<a href="/courses/game" data-drupal-link-system-path="courses/game">Games and Playable Media</a>
+																	</li>
+															<li>
+									<a href="/courses/hci" data-drupal-link-system-path="courses/hci">Human Computer Interaction</a>
+																	</li>
+															<li>
+									<a href="/courses/nlp" data-drupal-link-system-path="courses/nlp">Natural Language Processing</a>
+																	</li>
+															<li>
+									<a href="/courses/game" data-drupal-link-system-path="courses/game">Serious Games</a>
+																	</li>
+															<li>
+									<a href="/courses/stat" data-drupal-link-system-path="courses/stat">Statistics</a>
+																	</li>
+															<li>
+									<a href="/courses/tim" data-drupal-link-system-path="courses/tim">Technology &amp; Information Management</a>
+																	</li>
+															<li>
+									<a href="/pre-reshaping-departments" data-drupal-link-system-path="node/3">Pre-Reshaping Departments</a>
+																	</li>
+													</ul>
+															</nav>
+							
+
+
+  </nav>
+
+  </div>
+
+
+    <div class="layout-content">
+          <div class="region region-content">
+    <div id="block-bsoe-specific-content" class="block block-system block-system-main-block">
+  
+    
+      <br>
+<p>To see a schedule for an entire department, click the department name. To see the schedule for an individual course, click on the course name below.</p>
+
+<h2><a href="/courses/AM">Applied Mathematics</a></h2>
+<ul>
+    <li><a href="/courses/am3">AM3: Precalculus for the Social Sciences</a></li>
+    <li><a href="/courses/am6">AM6: Precalculus for Statistics</a></li>
+    <li><a href="/courses/am10">AM10: Mathematical Methods for Engineers I</a></li>
+    <li><a href="/courses/am11A">AM11A: Mathematical Methods for Economists I</a></li>
+    <li><a href="/courses/am11B">AM11B: Mathematical Methods for Economists II</a></li>
+    <li><a href="/courses/am15B">AM15B: Case-Study Calculus II</a></li>
+    <li><a href="/courses/am20">AM20: Mathematical Methods for Engineers II</a></li>
+    <li><a href="/courses/am30">AM30: Multivariate Calculus for Engineers</a></li>
+    <li><a href="/courses/am100">AM100: Mathematical Methods for Engineers III</a></li>
+    <li><a href="/courses/am107">AM107: Introduction to Fluid Dynamics</a></li>
+    <li><a href="/courses/am112">AM112: Introduction to Partial Differential Equations</a></li>
+    <li><a href="/courses/am114">AM114: Introduction to Dynamical Systems</a></li>
+    <li><a href="/courses/am115">AM115: Stochastic Modeling in Biology</a></li>
+    <li><a href="/courses/am129">AM129: Foundations of Scientific Computing for Scientists and Engineers</a></li>
+    <li><a href="/courses/am147">AM147: Computational Methods and Applications</a></li>
+    <li><a href="/courses/am148">AM148: GPU Programming for Scientific Computations</a></li>
+    <li><a href="/courses/am160">AM160: Introduction to Scientific Machine Learning</a></li>
+    <li><a href="/courses/am170A">AM170A: Mathematical Modeling 1</a></li>
+    <li><a href="/courses/am170B">AM170B: Mathematical Modeling II</a></li>
+    <li><a href="/courses/am178A">AM178A: Learning Assistant Training for AM 10</a></li>
+    <li><a href="/courses/am200">AM200: Research and Teaching in Applied Math</a></li>
+    <li><a href="/courses/am211">AM211: Foundations of Applied Mathematics</a></li>
+    <li><a href="/courses/am212">AM212: Advanced Methods of Applied Mathematics</a></li>
+    <li><a href="/courses/am212A">AM212A: Applied Mathematical Methods I</a></li>
+    <li><a href="/courses/am212B">AM212B: Applied Mathematical Methods II</a></li>
+    <li><a href="/courses/am213">AM213: Numerical Solutions of Differential Equations</a></li>
+    <li><a href="/courses/am213A">AM213A: Numerical Linear Algebra</a></li>
+    <li><a href="/courses/am213B">AM213B: Numerical Methods for the Solution of Differential equations</a></li>
+    <li><a href="/courses/am215">AM215: Stochastic Modeling in Biology</a></li>
+    <li><a href="/courses/am216">AM216: Stochastic Differential Equations</a></li>
+    <li><a href="/courses/am217">AM217: Introduction to Fluid Dynamics</a></li>
+    <li><a href="/courses/am224">AM224: Applied Dynamical Systems</a></li>
+    <li><a href="/courses/am227">AM227: Waves, Instabilities, and Turbulence in Fluids</a></li>
+    <li><a href="/courses/am229">AM229: Convex Optimization</a></li>
+    <li><a href="/courses/am230">AM230: Numerical Optimization</a></li>
+    <li><a href="/courses/am231">AM231: Nonlinear Control Theory</a></li>
+    <li><a href="/courses/am232">AM232: Applied Optimal Control</a></li>
+    <li><a href="/courses/am238">AM238: Fundamentals of Uncertainty Quantification in Computational Science and Engineering</a></li>
+    <li><a href="/courses/am250">AM250: An Introduction to High Performance Computing</a></li>
+    <li><a href="/courses/am260">AM260: Computational Fluid Dynamics</a></li>
+    <li><a href="/courses/am270">AM270: Linguistic Models of Syntax and Semantics for Computer Scientists</a></li>
+    <li><a href="/courses/am275">AM275: Magnetohydrodynamics</a></li>
+    <li><a href="/courses/am280B">AM280B: Seminar in Applied Mathematical Modeling</a></li>
+    <li><a href="/courses/am280A">AM280A: Seminar in Mathematical and Computational Biology</a></li>
+    <li><a href="/courses/am280C">AM280C: Seminar in Geophysical &amp; Astrophysical Fluid Dynamics</a></li>
+    <li><a href="/courses/am888A">AM888A: Testing Coursee</a></li>
+    <li><a href="/courses/am888">AM888: Testing Course</a></li>
+  </ul>
+<h2><a href="/courses/BME">Biomolecular Engineering</a></h2>
+<ul>
+    <li><a href="/courses/bme1">BME1: Introduction to Biomolecular Engineering Problem Solving</a></li>
+    <li><a href="/courses/bme5">BME5: Introduction to Biotechnology</a></li>
+    <li><a href="/courses/bme18">BME18: Scientific Principles of Life</a></li>
+    <li><a href="/courses/bme21L">BME21L: Introduction to basic laboratory techniques</a></li>
+    <li><a href="/courses/bme22L">BME22L: Foundations of Design and Experimentation in Molecular Biology</a></li>
+    <li><a href="/courses/bme23L">BME23L: Foundations of Design and Experimentation in Molecular Biology, Part II</a></li>
+    <li><a href="/courses/bme51A">BME51A: Applied Electronics for Bioengineers part 1</a></li>
+    <li><a href="/courses/bme51B">BME51B: Applied Electronics for Bioengineers part 2</a></li>
+    <li><a href="/courses/bme55">BME55: Introduction to Lab Groups</a></li>
+    <li><a href="/courses/bme60">BME60: Programming for Biologists and Biochemists</a></li>
+    <li><a href="/courses/bme60L">BME60L: Programming for Biologists and Biochemists Laboratory</a></li>
+    <li><a href="/courses/bme80G">BME80G: Bioethics in the 21st Century: Science, Business, and Society</a></li>
+    <li><a href="/courses/bme80H">BME80H: The Human Genome</a></li>
+    <li><a href="/courses/bme94">BME94: Group Tutorial</a></li>
+    <li><a href="/courses/bme94F">BME94F: Group Tutorial</a></li>
+    <li><a href="/courses/bme99">BME99: Tutorial</a></li>
+    <li><a href="/courses/bme99F">BME99F: Tutorial</a></li>
+    <li><a href="/courses/bme101">BME101: Applied Electronics for Bioengineers</a></li>
+    <li><a href="/courses/bme101L">BME101L: Applied Electronics for Bioengineers Lab</a></li>
+    <li><a href="/courses/bme105">BME105: Genetics in the Genomics Era</a></li>
+    <li><a href="/courses/bme110">BME110: Computational Biology Tools</a></li>
+    <li><a href="/courses/bme118">BME118: Mathematics of the Mind</a></li>
+    <li><a href="/courses/bme122H">BME122H: Extreme Environmental Virology</a></li>
+    <li><a href="/courses/bme123L">BME123L: Long Read Sequencing</a></li>
+    <li><a href="/courses/bme123T">BME123T: Senior Thesis Presentation</a></li>
+    <li><a href="/courses/bme128L">BME128L: Protein Engineering Laboratory</a></li>
+    <li><a href="/courses/bme128">BME128: Protein Engineering</a></li>
+    <li><a href="/courses/bme129A">BME129A: Project Design and Implementation in Biomolecular Engineering I</a></li>
+    <li><a href="/courses/bme129B">BME129B: Project Design and Implementation in Biomolecular Engineering II</a></li>
+    <li><a href="/courses/bme129C">BME129C: Project Design and Implementation in Biomolecular Engineering III</a></li>
+    <li><a href="/courses/bme130">BME130: Genomes</a></li>
+    <li><a href="/courses/bme132">BME132: Evolutionary Genomics</a></li>
+    <li><a href="/courses/bme140">BME140: Bioinstrumentation</a></li>
+    <li><a href="/courses/bme160">BME160: Research Programming in the Life Sciences</a></li>
+    <li><a href="/courses/bme163">BME163: Applied Visualization and Analysis of Scientific Data</a></li>
+    <li><a href="/courses/bme170">BME170: Frontiers in Drug Action and Discovery</a></li>
+    <li><a href="/courses/bme175">BME175: Entrepreneurship in Biotechnology</a></li>
+    <li><a href="/courses/bme177">BME177: Engineering Stem Cells</a></li>
+    <li><a href="/courses/bme177L">BME177L: Engineering Stem Cell Laboratory</a></li>
+    <li><a href="/courses/bme178">BME178: Stem Cell Biology</a></li>
+    <li><a href="/courses/bme180">BME180: Professional Practice in Bioengineering</a></li>
+    <li><a href="/courses/bme185">BME185: Technical Writing for Biomolecular Engineers</a></li>
+    <li><a href="/courses/bme188C">BME188C: Synthetic Biology Mentored Research C</a></li>
+    <li><a href="/courses/bme188A">BME188A: Synthetic Biology Mentored Research A</a></li>
+    <li><a href="/courses/bme188B">BME188B: Synthetic Biology Mentored Research B</a></li>
+    <li><a href="/courses/bme193">BME193: Field Study</a></li>
+    <li><a href="/courses/bme193F">BME193F: Field Study</a></li>
+    <li><a href="/courses/bme194">BME194: Group Tutorial</a></li>
+    <li><a href="/courses/bme194F">BME194F: Group Tutorial</a></li>
+    <li><a href="/courses/bme195">BME195: Senior Thesis Research</a></li>
+    <li><a href="/courses/bme195F">BME195F: Senior Thesis or Research</a></li>
+    <li><a href="/courses/bme198">BME198: Individual Study or Research</a></li>
+    <li><a href="/courses/bme198F">BME198F: Individual Study or Research</a></li>
+    <li><a href="/courses/bme199">BME199: Tutorial</a></li>
+    <li><a href="/courses/bme201">BME201: Scientific Writing</a></li>
+    <li><a href="/courses/bme205">BME205: Bioinformatics Models and Algorithms</a></li>
+    <li><a href="/courses/bme215">BME215: Applied Gene Technology</a></li>
+    <li><a href="/courses/bme218">BME218: Mathematics of the Mind</a></li>
+    <li><a href="/courses/bme228">BME228: Protein Design and Engineering</a></li>
+    <li><a href="/courses/bme229">BME229: Protein and Cell Engineering</a></li>
+    <li><a href="/courses/bme230A">BME230A: Introduction to Computational Genomics and Systems Biology</a></li>
+    <li><a href="/courses/bme230B">BME230B: Advanced Computational Genomics and Systems Biology</a></li>
+    <li><a href="/courses/bme232">BME232: Evolutionary Genomics</a></li>
+    <li><a href="/courses/bme237">BME237: Applied RNA Bioinformatics</a></li>
+    <li><a href="/courses/bme263">BME263: Applied Visualization and Analysis of Scientific Data</a></li>
+    <li><a href="/courses/bme268A">BME268A: Science and Justice: Experiments in Collaboration</a></li>
+    <li><a href="/courses/bme268B">BME268B: Science and Justice Research Seminar</a></li>
+    <li><a href="/courses/bme270">BME270: Frontiers in Drug Action and Discovery</a></li>
+    <li><a href="/courses/bme272">BME272: Precision Medicine</a></li>
+    <li><a href="/courses/bme273">BME273: Stem Cell Epi/Genomics</a></li>
+    <li><a href="/courses/bme275">BME275: Entrepreneurship in Biotechnology</a></li>
+    <li><a href="/courses/bme278">BME278: Stem Cell Biology</a></li>
+    <li><a href="/courses/bme280B">BME280B: Seminar on Bioinformatics &amp; Bioengineering</a></li>
+    <li><a href="/courses/bme281H">BME281H: Live Cell Biotechnology Seminar</a></li>
+    <li><a href="/courses/bme281E">BME281E: Seminar in Genomics</a></li>
+    <li><a href="/courses/bme281G">BME281G: Seminar on Cell Fate Decisions</a></li>
+    <li><a href="/courses/bme281L">BME281L: Seminar in Computational Genetics</a></li>
+    <li><a href="/courses/bme281N">BME281N: Seminar in Transcriptomics</a></li>
+    <li><a href="/courses/bme281T">BME281T: Seminar in Neuroengineering and Systems Neuroscience</a></li>
+    <li><a href="/courses/bme281P">BME281P: Seminar on Nanotechnology and Biosensors</a></li>
+    <li><a href="/courses/bme281S">BME281S: Seminar in Computational Functional Genomics</a></li>
+    <li><a href="/courses/bme281D">BME281D: Seminar on Protein Engineering</a></li>
+    <li><a href="/courses/bme281R">BME281R: Seminar in Stem Cell Genomics</a></li>
+    <li><a href="/courses/bme281V">BME281V: Immunogenomics Seminar</a></li>
+    <li><a href="/courses/bme281J">BME281J: Seminar in Computational Genomics &amp; Biomedicine</a></li>
+    <li><a href="/courses/bme281X">BME281X: Microbial Symbiosis</a></li>
+    <li><a href="/courses/bme281A">BME281A: Seminar on Processive Enzymes and Nanopores</a></li>
+    <li><a href="/courses/bme281C">BME281C: Seminar in Cancer Genomics</a></li>
+    <li><a href="/courses/bme281Z">BME281Z: Seminar in Population and Evolutionary Genomics</a></li>
+    <li><a href="/courses/bme281M">BME281M: Seminar on Chromosome Biology and Function</a></li>
+    <li><a href="/courses/bme281F">BME281F: Seminar on Blood Cell Development</a></li>
+    <li><a href="/courses/bme281Y">BME281Y: Seminar on Protein Design</a></li>
+    <li><a href="/courses/bme293">BME293: Seminar in Biomolecular Engineering</a></li>
+    <li><a href="/courses/bme296">BME296: Research in Bioinformatics</a></li>
+    <li><a href="/courses/bme297">BME297: Independent Study or Research</a></li>
+    <li><a href="/courses/bme297F">BME297F: Independent Study or Research</a></li>
+    <li><a href="/courses/bme299">BME299: Thesis Research</a></li>
+  </ul>
+<h2><a href="/courses/CMPM">Computational Media</a></h2>
+<ul>
+    <li><a href="/courses/cmpm15">CMPM15: Research Explorations</a></li>
+    <li><a href="/courses/cmpm17">CMPM17: Design Build Experience</a></li>
+    <li><a href="/courses/cmpm20">CMPM20: Climate Resilience, Health, and Wellbeing</a></li>
+    <li><a href="/courses/cmpm25">CMPM25: Introduction to 3D Modeling</a></li>
+    <li><a href="/courses/cmpm26">CMPM26: Introduction to 3D Animation</a></li>
+    <li><a href="/courses/cmpm27">CMPM27: Fundamentals of Substance Designer and Painter</a></li>
+    <li><a href="/courses/cmpm35">CMPM35:  Data Structures for Interactive Media</a></li>
+    <li><a href="/courses/cmpm80L">CMPM80L: Entrepreneurial Organization and Leadership</a></li>
+    <li><a href="/courses/cmpm80H">CMPM80H: Human Centered AI</a></li>
+    <li><a href="/courses/cmpm80K">CMPM80K: Foundations of Video Game Design</a></li>
+    <li><a href="/courses/cmpm80I">CMPM80I: Introduction to Human Computer Interaction</a></li>
+    <li><a href="/courses/cmpm80J">CMPM80J: Games as Technical Culture</a></li>
+    <li><a href="/courses/cmpm80A">CMPM80A: Accessible Games</a></li>
+    <li><a href="/courses/cmpm110">CMPM110: Writing for Game Technologies</a></li>
+    <li><a href="/courses/cmpm115">CMPM115: Lead by Design: Experiential Learning Collaborative</a></li>
+    <li><a href="/courses/cmpm118">CMPM118: Collaborative Research Experience in Engineering</a></li>
+    <li><a href="/courses/cmpm120">CMPM120: Game Development Experience</a></li>
+    <li><a href="/courses/cmpm121">CMPM121: Game Development Patterns</a></li>
+    <li><a href="/courses/cmpm122">CMPM122: Business of Games</a></li>
+    <li><a href="/courses/cmpm123">CMPM123: Advanced Programming</a></li>
+    <li><a href="/courses/cmpm125">CMPM125: Game Technologies</a></li>
+    <li><a href="/courses/cmpm130">CMPM130: User Interface and User Experience Design</a></li>
+    <li><a href="/courses/cmpm131">CMPM131: User Experience for Interactive Media</a></li>
+    <li><a href="/courses/cmpm132">CMPM132: Interaction Design Studio</a></li>
+    <li><a href="/courses/cmpm146">CMPM146: Game AI</a></li>
+    <li><a href="/courses/cmpm147">CMPM147: Generative Design</a></li>
+    <li><a href="/courses/cmpm148">CMPM148: Interactive Narrative</a></li>
+    <li><a href="/courses/cmpm150">CMPM150: Creating Digital Audio</a></li>
+    <li><a href="/courses/cmpm151">CMPM151: Algorithmic Music for Games</a></li>
+    <li><a href="/courses/cmpm152">CMPM152: Musical Data</a></li>
+    <li><a href="/courses/cmpm163">CMPM163: Game Graphics and Real-Time Rendering</a></li>
+    <li><a href="/courses/cmpm164">CMPM164: Game Engines</a></li>
+    <li><a href="/courses/cmpm164L">CMPM164L: Game Engines Lab</a></li>
+    <li><a href="/courses/cmpm169">CMPM169: Creative Coding</a></li>
+    <li><a href="/courses/cmpm170">CMPM170: Rapid Prototyping</a></li>
+    <li><a href="/courses/cmpm171">CMPM171: Game Design Studio</a></li>
+    <li><a href="/courses/cmpm172">CMPM172: Game Production Studio</a></li>
+    <li><a href="/courses/cmpm176">CMPM176: Game Systems</a></li>
+    <li><a href="/courses/cmpm177">CMPM177: Creative Strategies for Designing Interactive Media</a></li>
+    <li><a href="/courses/cmpm178">CMPM178: Human-Centered Design Research</a></li>
+    <li><a href="/courses/cmpm179">CMPM179: Game Design Practicum</a></li>
+    <li><a href="/courses/cmpm180">CMPM180: Topics in Computational Media</a></li>
+    <li><a href="/courses/cmpm181">CMPM181: Games for Impact Studio I</a></li>
+    <li><a href="/courses/cmpm182">CMPM182: Games for Impact Studio II</a></li>
+    <li><a href="/courses/cmpm201">CMPM201: Introduction to Computational Media</a></li>
+    <li><a href="/courses/cmpm202">CMPM202: Computational Media Research</a></li>
+    <li><a href="/courses/cmpm203">CMPM203: Computational Media Methods</a></li>
+    <li><a href="/courses/cmpm204">CMPM204: Computational Media Project Definition</a></li>
+    <li><a href="/courses/cmpm206">CMPM206: Computational Media Research Preparation</a></li>
+    <li><a href="/courses/cmpm230">CMPM230: Data Science in Computational Experiences</a></li>
+    <li><a href="/courses/cmpm232">CMPM232: Psychology of Play</a></li>
+    <li><a href="/courses/cmpm235">CMPM235: User Evaluation of Technology</a></li>
+    <li><a href="/courses/cmpm237">CMPM237: Advanced Topics in Human-Robot Interaction</a></li>
+    <li><a href="/courses/cmpm243">CMPM243: Social Computing Research: Design, Algorithms, and Incentives</a></li>
+    <li><a href="/courses/cmpm244">CMPM244: Artificial Intelligence in Games</a></li>
+    <li><a href="/courses/cmpm245">CMPM245: Computational Models of Discourse and Dialogue</a></li>
+    <li><a href="/courses/cmpm248">CMPM248: Interactive Narrative</a></li>
+    <li><a href="/courses/cmpm255">CMPM255: Games for Impact Studio I</a></li>
+    <li><a href="/courses/cmpm256">CMPM256: Games for Impact Studio II</a></li>
+    <li><a href="/courses/cmpm265">CMPM265: Generative Methods</a></li>
+    <li><a href="/courses/cmpm268">CMPM268: Immersive Analytics</a></li>
+    <li><a href="/courses/cmpm269">CMPM269: Machine Learning for Creativity and Design</a></li>
+    <li><a href="/courses/cmpm280X">CMPM280X: Seminar on Expressive AI</a></li>
+    <li><a href="/courses/cmpm280C">CMPM280C: Computational Media Seminar</a></li>
+    <li><a href="/courses/cmpm280H">CMPM280H: Seminar in Human Computer Interaction and Computational Media</a></li>
+    <li><a href="/courses/cmpm280I">CMPM280I: Human Computer Interaction Seminar</a></li>
+    <li><a href="/courses/cmpm280K">CMPM280K: Seminar in Interactive Systems for Individuals with Special Needs</a></li>
+    <li><a href="/courses/cmpm280S">CMPM280S: Seminar Topics</a></li>
+    <li><a href="/courses/cmpm280G">CMPM280G: Seminar in Generative Methods</a></li>
+    <li><a href="/courses/cmpm280R">CMPM280R: Topics in Human-Robot Interaction</a></li>
+    <li><a href="/courses/cmpm280W">CMPM280W: Seminar in Digital Media</a></li>
+    <li><a href="/courses/cmpm280F">CMPM280F: Seminar in Creative Coding and Computational Media</a></li>
+    <li><a href="/courses/cmpm280P">CMPM280P: Seminar in Player Experience and Modeling</a></li>
+    <li><a href="/courses/cmpm290J">CMPM290J: Playable Media</a></li>
+    <li><a href="/courses/cmpm290K">CMPM290K: Social and Emotional Approaches to Human Computer Interaction</a></li>
+    <li><a href="/courses/cmpm290A">CMPM290A: Topics in Computational Media</a></li>
+    <li><a href="/courses/cmpm290P">CMPM290P: Topics in Computational Cinematography</a></li>
+    <li><a href="/courses/cmpm296">CMPM296: Masters Project</a></li>
+    <li><a href="/courses/cmpm297G">CMPM297G: Independent Study or Research</a></li>
+  </ul>
+<h2><a href="/courses/CSE">Computer Science and Engineering</a></h2>
+<ul>
+    <li><a href="/courses/cse3">CSE3: Personal Computer Concepts: Software and Hardware</a></li>
+    <li><a href="/courses/cse5J">CSE5J: Introduction to Programming in Java</a></li>
+    <li><a href="/courses/cse5P">CSE5P: Introduction to Programming in Python</a></li>
+    <li><a href="/courses/cse12">CSE12: Computer Systems and Assembly Language and Lab</a></li>
+    <li><a href="/courses/cse13L">CSE13L: Computer Systems and C Programming Laboratory</a></li>
+    <li><a href="/courses/cse13">CSE13: Computer Systems and C Programming</a></li>
+    <li><a href="/courses/cse13S">CSE13S: Comp Sys and C Program</a></li>
+    <li><a href="/courses/cse16">CSE16: Applied Discrete Mathematics</a></li>
+    <li><a href="/courses/cse20">CSE20: Beginning Programming in Python</a></li>
+    <li><a href="/courses/cse30">CSE30: Programming Abstractions: Python</a></li>
+    <li><a href="/courses/cse40">CSE40: Machine Learning Basics: Data Analysis and Empirical Methods</a></li>
+    <li><a href="/courses/cse50">CSE50: Business Information Systems</a></li>
+    <li><a href="/courses/cse58">CSE58: Systems Analysis and Design</a></li>
+    <li><a href="/courses/cse80A">CSE80A: Universal Access: Disability, Technology, and Society</a></li>
+    <li><a href="/courses/cse80C">CSE80C: Starting a New Technology Company</a></li>
+    <li><a href="/courses/cse80N">CSE80N: Introduction to Networking and the Internet</a></li>
+    <li><a href="/courses/cse80S">CSE80S: Social Networks</a></li>
+    <li><a href="/courses/cse94">CSE94: Group Tutorial</a></li>
+    <li><a href="/courses/cse99">CSE99: Tutorial</a></li>
+    <li><a href="/courses/cse100">CSE100: Logic Design</a></li>
+    <li><a href="/courses/cse100L">CSE100L: Logic Design Laboratory</a></li>
+    <li><a href="/courses/cse101x">CSE101x: Algorithms and Abstract Data Types (Last Offered Fall &#039;19)</a></li>
+    <li><a href="/courses/cse101">CSE101: Introduction to Data Structures and Algorithms</a></li>
+    <li><a href="/courses/cse101M">CSE101M: Mathematical Thinking for Computer Science</a></li>
+    <li><a href="/courses/cse101P">CSE101P: Introduction to Data Structures and Algorithms in Python</a></li>
+    <li><a href="/courses/cse102">CSE102: Introduction to Analysis of Algorithms</a></li>
+    <li><a href="/courses/cse103">CSE103: Computational Models</a></li>
+    <li><a href="/courses/cse104">CSE104: Computability and Computational Complexity</a></li>
+    <li><a href="/courses/cse105">CSE105: Modern Algorithmic Toolbox</a></li>
+    <li><a href="/courses/cse106">CSE106: Applied Graph Theory and Algorithms</a></li>
+    <li><a href="/courses/cse107">CSE107: Probability and Statistics for Engineers (formerly Math Systems: Stochastic)</a></li>
+    <li><a href="/courses/cse108C">CSE108C: Computing on Encrypted Data</a></li>
+    <li><a href="/courses/cse108">CSE108: Algorithmic Foundations of Cryptography</a></li>
+    <li><a href="/courses/cse109">CSE109: Quantum Computing</a></li>
+    <li><a href="/courses/cse110A">CSE110A: Fundamentals of Compiler Design I</a></li>
+    <li><a href="/courses/cse110B">CSE110B: Fundamentals of Compiler Design II</a></li>
+    <li><a href="/courses/cse111">CSE111: Advanced Programming</a></li>
+    <li><a href="/courses/cse112">CSE112: Comparative Programming Languages</a></li>
+    <li><a href="/courses/cse113">CSE113: Parallel Programming</a></li>
+    <li><a href="/courses/cse114A">CSE114A: Foundations of Programming Languages</a></li>
+    <li><a href="/courses/cse114B">CSE114B: Functional Programming</a></li>
+    <li><a href="/courses/cse115C">CSE115C: Software Design Project II</a></li>
+    <li><a href="/courses/cse115D">CSE115D: Software Design Project - Accelerated</a></li>
+    <li><a href="/courses/cse115A">CSE115A: Introduction to Software Engineering</a></li>
+    <li><a href="/courses/cse115B">CSE115B: Software Design Project</a></li>
+    <li><a href="/courses/cse117">CSE117: Open Source Programming</a></li>
+    <li><a href="/courses/cse118">CSE118: Mobile Applications</a></li>
+    <li><a href="/courses/cse119">CSE119: Software for Society</a></li>
+    <li><a href="/courses/cse120">CSE120: Computer Architecture</a></li>
+    <li><a href="/courses/cse121">CSE121: Embedded System Design</a></li>
+    <li><a href="/courses/cse122">CSE122: Introduction to VLSI Digital System Design</a></li>
+    <li><a href="/courses/cse123A">CSE123A: Engineering Design Project I</a></li>
+    <li><a href="/courses/cse123B">CSE123B: Engineering Design Project II</a></li>
+    <li><a href="/courses/cse125">CSE125: Logic Design with Verilog</a></li>
+    <li><a href="/courses/cse129A">CSE129A: Capstone Project I</a></li>
+    <li><a href="/courses/cse129B">CSE129B: Capstone Project II</a></li>
+    <li><a href="/courses/cse129C">CSE129C: Capstone Project III</a></li>
+    <li><a href="/courses/cse130">CSE130: Principles of Computer Systems Design</a></li>
+    <li><a href="/courses/cse132">CSE132: Computer Security</a></li>
+    <li><a href="/courses/cse134">CSE134: Embedded Operating Systems</a></li>
+    <li><a href="/courses/cse138">CSE138: Distributed Systems</a></li>
+    <li><a href="/courses/cse140">CSE140: Artificial Intelligence</a></li>
+    <li><a href="/courses/cse142">CSE142: Machine Learning and Data Mining</a></li>
+    <li><a href="/courses/cse143">CSE143: Introduction to Natural Language Processing</a></li>
+    <li><a href="/courses/cse144">CSE144: Applied Machine Learning: Deep Learning</a></li>
+    <li><a href="/courses/cse145">CSE145: Introduction to Data Mining</a></li>
+    <li><a href="/courses/cse146">CSE146: Ethics &amp; Algorithms</a></li>
+    <li><a href="/courses/cse150">CSE150: Introduction to Computer Networks</a></li>
+    <li><a href="/courses/cse151L">CSE151L: Advanced Computer Networks Laboratory</a></li>
+    <li><a href="/courses/cse151">CSE151: Advanced Computer Networks (formerly Network Administration)</a></li>
+    <li><a href="/courses/cse152">CSE152: Principles of Computer Communication</a></li>
+    <li><a href="/courses/cse153">CSE153: Network Security and Privacy</a></li>
+    <li><a href="/courses/cse156L">CSE156L: Network Programming Laboratory</a></li>
+    <li><a href="/courses/cse156">CSE156: Network Programming</a></li>
+    <li><a href="/courses/cse157">CSE157: Internet of Things</a></li>
+    <li><a href="/courses/cse160L">CSE160L: Introduction to Computer Graphics Laboratory</a></li>
+    <li><a href="/courses/cse160">CSE160: Introduction to Computer Graphics</a></li>
+    <li><a href="/courses/cse161L">CSE161L: Data Visualization Lab</a></li>
+    <li><a href="/courses/cse161">CSE161: Introduction to Data Visualization</a></li>
+    <li><a href="/courses/cse162L">CSE162L: Advanced Computer Graphics and Animation Lab</a></li>
+    <li><a href="/courses/cse162">CSE162: Advanced Computer Graphics and Animation</a></li>
+    <li><a href="/courses/cse163">CSE163: Data Programming for Visualization</a></li>
+    <li><a href="/courses/cse164">CSE164: Computer Vision</a></li>
+    <li><a href="/courses/cse165">CSE165: Human-Computer Interaction</a></li>
+    <li><a href="/courses/cse166A">CSE166A: Game Theory and Applications I</a></li>
+    <li><a href="/courses/cse166B">CSE166B: Game Theory and Applications II</a></li>
+    <li><a href="/courses/cse167">CSE167: Mobile Sensing and Interaction</a></li>
+    <li><a href="/courses/cse168">CSE168: Introduction to Augmented Reality and Virtual Reality</a></li>
+    <li><a href="/courses/cse170">CSE170: Management of Technology Seminar</a></li>
+    <li><a href="/courses/cse171A">CSE171A: Management of Technology I</a></li>
+    <li><a href="/courses/cse172B">CSE172B: Management of Technology II</a></li>
+    <li><a href="/courses/cse173">CSE173: Financial Engineering &amp; Management in High Technology Firms</a></li>
+    <li><a href="/courses/cse174">CSE174: Decision Analysis in Management</a></li>
+    <li><a href="/courses/cse175">CSE175: Business Strategy and Information Systems</a></li>
+    <li><a href="/courses/cse180">CSE180: Database Systems I</a></li>
+    <li><a href="/courses/cse181">CSE181: Database Systems II</a></li>
+    <li><a href="/courses/cse182">CSE182: Introduction to Database Management Systems</a></li>
+    <li><a href="/courses/cse183">CSE183: Web Applications</a></li>
+    <li><a href="/courses/cse184">CSE184: Data Wrangling and Web Scraping</a></li>
+    <li><a href="/courses/cse185E">CSE185E: Technical Writing for Computer Science and Engineering</a></li>
+    <li><a href="/courses/cse185S">CSE185S: Technical Writing and Communication in Computer Science</a></li>
+    <li><a href="/courses/cse186">CSE186: Full Stack Web Development I</a></li>
+    <li><a href="/courses/cse187">CSE187: Full Stack Web Development II</a></li>
+    <li><a href="/courses/cse190F">CSE190F: Supervised Student Teaching/Tutoring</a></li>
+    <li><a href="/courses/cse190">CSE190: Supervised Student Teaching/Tutoring</a></li>
+    <li><a href="/courses/cse191">CSE191: Computer Science and Technology Seminar</a></li>
+    <li><a href="/courses/cse193F">CSE193F: Field Study</a></li>
+    <li><a href="/courses/cse193">CSE193: Field Study</a></li>
+    <li><a href="/courses/cse194F">CSE194F: Group Tutorial</a></li>
+    <li><a href="/courses/cse194">CSE194: Group Tutorial</a></li>
+    <li><a href="/courses/cse195F">CSE195F: Senior Thesis Research</a></li>
+    <li><a href="/courses/cse195">CSE195: Senior Thesis Research</a></li>
+    <li><a href="/courses/cse198F">CSE198F: Individual Study or Research</a></li>
+    <li><a href="/courses/cse198">CSE198: Individual Study or Research</a></li>
+    <li><a href="/courses/cse199F">CSE199F: Tutorial</a></li>
+    <li><a href="/courses/cse199">CSE199: Tutorial</a></li>
+    <li><a href="/courses/cse200">CSE200: Research and Teaching in Computer Science and Engineering</a></li>
+    <li><a href="/courses/cse201">CSE201: Analysis of Algorithms</a></li>
+    <li><a href="/courses/cse202">CSE202: Combinatorial Algorithms</a></li>
+    <li><a href="/courses/cse204">CSE204: Computational Models and Complexity</a></li>
+    <li><a href="/courses/cse205">CSE205: Logic in Computer Science</a></li>
+    <li><a href="/courses/cse206G">CSE206G: Game Theory and Applications in Computer Science and Engineering</a></li>
+    <li><a href="/courses/cse206C">CSE206C: Foundations of Modern Cryptography</a></li>
+    <li><a href="/courses/cse207">CSE207: Graph Algorithms</a></li>
+    <li><a href="/courses/cse208">CSE208: Introduction to Information Theory</a></li>
+    <li><a href="/courses/cse209">CSE209: Evolutionary Game Theory</a></li>
+    <li><a href="/courses/cse209A">CSE209A: Modern Algorithmic Toolbox</a></li>
+    <li><a href="/courses/cse210A">CSE210A: Programming Languages</a></li>
+    <li><a href="/courses/cse210B">CSE210B: Advanced Programming Languages</a></li>
+    <li><a href="/courses/cse211">CSE211: Compiler Design</a></li>
+    <li><a href="/courses/cse212A">CSE212A: Software Engineering</a></li>
+    <li><a href="/courses/cse212B">CSE212B: Software Reuse and Component-Based Software Engineering</a></li>
+    <li><a href="/courses/cse214">CSE214: Principles of Database Systems</a></li>
+    <li><a href="/courses/cse215">CSE215: Design and Implementation of Database Systems</a></li>
+    <li><a href="/courses/cse216">CSE216: Formal Methods</a></li>
+    <li><a href="/courses/cse220">CSE220: Computer Architecture</a></li>
+    <li><a href="/courses/cse221L">CSE221L: Advanced Microprocessor Design Laboratory</a></li>
+    <li><a href="/courses/cse221">CSE221: Advanced Microprocessor Design</a></li>
+    <li><a href="/courses/cse222A">CSE222A: VLSI Digital System Design</a></li>
+    <li><a href="/courses/cse222B">CSE222B: VLSI System-on-a-Chip Design</a></li>
+    <li><a href="/courses/cse225">CSE225: Introduction to ASIC Systems Design</a></li>
+    <li><a href="/courses/cse226">CSE226: Advanced Parallel Processing</a></li>
+    <li><a href="/courses/cse228A">CSE228A: Agile Hardware Design</a></li>
+    <li><a href="/courses/cse229">CSE229: Field-Programmable Gate Arrays Computer-Assisted Design</a></li>
+    <li><a href="/courses/cse231">CSE231: Advanced Operating Systems</a></li>
+    <li><a href="/courses/cse232">CSE232: Distributed Systems</a></li>
+    <li><a href="/courses/cse233">CSE233: Advanced Computer Security</a></li>
+    <li><a href="/courses/cse234">CSE234: Understanding Cryptography</a></li>
+    <li><a href="/courses/cse235">CSE235: Cyber-Physical Systems Security</a></li>
+    <li><a href="/courses/cse237">CSE237: Storage Systems</a></li>
+    <li><a href="/courses/cse239A">CSE239A: Private Computation on Encrypted Data</a></li>
+    <li><a href="/courses/cse240">CSE240: Artificial Intelligence</a></li>
+    <li><a href="/courses/cse241">CSE241: Knowledge Engineering</a></li>
+    <li><a href="/courses/cse242">CSE242: Machine Learning</a></li>
+    <li><a href="/courses/cse243">CSE243: Data Mining</a></li>
+    <li><a href="/courses/cse244A">CSE244A: Foundations of Deep Learning</a></li>
+    <li><a href="/courses/cse244B">CSE244B: Machine Learning for Natural Language Processing</a></li>
+    <li><a href="/courses/cse244C">CSE244C: Deep Learning for Advanced Computer Vision</a></li>
+    <li><a href="/courses/cse245">CSE245: Computational Models of Discourse and Dialogue</a></li>
+    <li><a href="/courses/cse246">CSE246: Responsible Data Science</a></li>
+    <li><a href="/courses/cse247">CSE247: Projects in Artificial Intelligence</a></li>
+    <li><a href="/courses/cse247B">CSE247B: Projects in Computer Science</a></li>
+    <li><a href="/courses/cse248">CSE248: Foundations of Data Science</a></li>
+    <li><a href="/courses/cse249">CSE249: Large-Scale Web Analytics and Machine Learning</a></li>
+    <li><a href="/courses/cse250A">CSE250A: Computer Networks</a></li>
+    <li><a href="/courses/cse250B">CSE250B: Principles of Computer Communication</a></li>
+    <li><a href="/courses/cse250C">CSE250C: High Speed Computer Networks</a></li>
+    <li><a href="/courses/cse253">CSE253: Network Security</a></li>
+    <li><a href="/courses/cse257">CSE257: Wireless and Mobile Networks</a></li>
+    <li><a href="/courses/cse258">CSE258: Spectral Graph Theory</a></li>
+    <li><a href="/courses/cse259">CSE259: Sensor Networks</a></li>
+    <li><a href="/courses/cse260">CSE260: Computer Graphics</a></li>
+    <li><a href="/courses/cse261">CSE261: Advanced Visualization</a></li>
+    <li><a href="/courses/cse262">CSE262: Computer Animation</a></li>
+    <li><a href="/courses/cse263">CSE263: Data Driven Discovery and Visualization</a></li>
+    <li><a href="/courses/cse264">CSE264: Image Analysis and Computer Vision</a></li>
+    <li><a href="/courses/cse265">CSE265: Human-Computer Interaction</a></li>
+    <li><a href="/courses/cse266A">CSE266A: Data Visualization and Statistical Programming in R</a></li>
+    <li><a href="/courses/cse266B">CSE266B: Advanced Statistical Programming in R</a></li>
+    <li><a href="/courses/cse266C">CSE266C: Introduction to Data Wrangling</a></li>
+    <li><a href="/courses/cse269">CSE269: Approximation Algorithms</a></li>
+    <li><a href="/courses/cse272">CSE272: Information Retrieval</a></li>
+    <li><a href="/courses/cse276">CSE276: Optimization Theory and Applications</a></li>
+    <li><a href="/courses/cse277">CSE277: Random Process Models in Engineering</a></li>
+    <li><a href="/courses/cse279">CSE279: Data Mining and Business Analytics in Knowledge Services</a></li>
+    <li><a href="/courses/cse280I">CSE280I: Seminar on Information Retrieval and Knowledge Management</a></li>
+    <li><a href="/courses/cse280J">CSE280J: Seminar on Computer Graphics</a></li>
+    <li><a href="/courses/cse280K">CSE280K: Sales and Marketing for Technologists and Engineers</a></li>
+    <li><a href="/courses/cse280L">CSE280L: Seminar on Logic in Computer Science</a></li>
+    <li><a href="/courses/cse280M">CSE280M: Seminar on Machine Learning</a></li>
+    <li><a href="/courses/cse280N">CSE280N: Seminar on Networks</a></li>
+    <li><a href="/courses/cse280O">CSE280O: Seminar in Applied Programming Languages</a></li>
+    <li><a href="/courses/cse280P">CSE280P: Seminar on Parallel Processing</a></li>
+    <li><a href="/courses/cse280X">CSE280X: Seminar in Distributed Systems</a></li>
+    <li><a href="/courses/cse280S">CSE280S: Seminar on Computer Systems</a></li>
+    <li><a href="/courses/cse280T">CSE280T: Seminar on New Technologies</a></li>
+    <li><a href="/courses/cse280A">CSE280A: Seminar in Computer Science Research</a></li>
+    <li><a href="/courses/cse280V">CSE280V: Seminar on Computer Vision</a></li>
+    <li><a href="/courses/cse280C">CSE280C: Graduate Research Seminar</a></li>
+    <li><a href="/courses/cse280Z">CSE280Z: Seminar in Natural Language Processing and Dialogue</a></li>
+    <li><a href="/courses/cse280D">CSE280D: Seminar in Database Systems</a></li>
+    <li><a href="/courses/cse280F">CSE280F: Seminar on Software Engineering</a></li>
+    <li><a href="/courses/cse280G">CSE280G: VLSI/CAD Seminar</a></li>
+    <li><a href="/courses/cse280H">CSE280H: Seminar in Human Computation Systems</a></li>
+    <li><a href="/courses/cse285">CSE285: Technical Writing for Engineering Graduates</a></li>
+    <li><a href="/courses/cse290E">CSE290E: Object-Oriented Programming Methodology</a></li>
+    <li><a href="/courses/cse290F">CSE290F: Applications of Combinatorics</a></li>
+    <li><a href="/courses/cse290G">CSE290G: Topics in Software Engineering</a></li>
+    <li><a href="/courses/cse290H">CSE290H: Topics in Database Systems</a></li>
+    <li><a href="/courses/cse290O">CSE290O: Algorithmic Foundations of Convex Optimization</a></li>
+    <li><a href="/courses/cse290J">CSE290J: Advanced Topics in Visual Computing</a></li>
+    <li><a href="/courses/cse290K">CSE290K: Advanced Topics in Natural Language Processing</a></li>
+    <li><a href="/courses/cse290L">CSE290L: Topics in Crowdsourcing and Collaboration</a></li>
+    <li><a href="/courses/cse290M">CSE290M: Topics in Parallel Computation</a></li>
+    <li><a href="/courses/cse290N">CSE290N: Topics in Computer Performance</a></li>
+    <li><a href="/courses/cse290P">CSE290P: Data Privacy via Machine Learning, and Back</a></li>
+    <li><a href="/courses/cse290Q">CSE290Q: Topics in Programming Languages</a></li>
+    <li><a href="/courses/cse290S">CSE290S: Advanced Topics in Computer Systems</a></li>
+    <li><a href="/courses/cse290T">CSE290T: Topics in Computing for Society</a></li>
+    <li><a href="/courses/cse290A">CSE290A: Topics in Algorithms and Complexity Theory: Probabilistic Algorithms and Average Case Analysis</a></li>
+    <li><a href="/courses/cse290X">CSE290X: Cryptography and Computer Security</a></li>
+    <li><a href="/courses/cse290C">CSE290C: Advanced Topics in Machine Learning</a></li>
+    <li><a href="/courses/cse290Y">CSE290Y: Quantum Computing</a></li>
+    <li><a href="/courses/cse290D">CSE290D: Neural Computation</a></li>
+    <li><a href="/courses/cse293">CSE293: Advanced Topics in Computer Engineering</a></li>
+    <li><a href="/courses/cse296">CSE296: Masters Project</a></li>
+    <li><a href="/courses/cse297F">CSE297F: Independent Study or Research</a></li>
+    <li><a href="/courses/cse299F">CSE299F: Thesis Research</a></li>
+  </ul>
+<h2><a href="/courses/ECE">Electrical and Computer Engineering</a></h2>
+<ul>
+    <li><a href="/courses/ece8">ECE8: Robot Automation: Intelligence through Feedback Control</a></li>
+    <li><a href="/courses/ece9">ECE9: Statics and Mechanics of Materials</a></li>
+    <li><a href="/courses/ece10">ECE10: Fundamentals of Robot Kinematics and Dynamics</a></li>
+    <li><a href="/courses/ece11">ECE11: Three-D prototyping</a></li>
+    <li><a href="/courses/ece13">ECE13: Computer Systems and C Programming</a></li>
+    <li><a href="/courses/ece30">ECE30: Engineering Principles of Electronics</a></li>
+    <li><a href="/courses/ece80B">ECE80B: Engineering Innovations for Medicine and Natural Sciences</a></li>
+    <li><a href="/courses/ece80G">ECE80G: Creating and Financing a Sustainable Startup in the Global Economy</a></li>
+    <li><a href="/courses/ece80H">ECE80H: Bending the Curve: Solutions to Climate Change</a></li>
+    <li><a href="/courses/ece80E">ECE80E: Engineering Ethics</a></li>
+    <li><a href="/courses/ece80J">ECE80J: Renewable Energy Sources</a></li>
+    <li><a href="/courses/ece80S">ECE80S: Sustainability Engineering and Practice</a></li>
+    <li><a href="/courses/ece80T">ECE80T: Modern Electronic Technology and How It Works</a></li>
+    <li><a href="/courses/ece81C">ECE81C: Designing a Sustainable Future</a></li>
+    <li><a href="/courses/ece94F">ECE94F: Group Tutorial</a></li>
+    <li><a href="/courses/ece99F">ECE99F: Tutorial</a></li>
+    <li><a href="/courses/ece101L">ECE101L: Introduction to Electronic Circuits Laboratory</a></li>
+    <li><a href="/courses/ece101">ECE101: Introduction to Electronic Circuits  </a></li>
+    <li><a href="/courses/ece102L">ECE102L: Properties of Materials Laboratory</a></li>
+    <li><a href="/courses/ece102">ECE102: Properties of Materials</a></li>
+    <li><a href="/courses/ece103L">ECE103L: Signals and Systems Lab</a></li>
+    <li><a href="/courses/ece103">ECE103: Signals and Systems</a></li>
+    <li><a href="/courses/ece104">ECE104: Bio-electronics and Bio-instrumentations</a></li>
+    <li><a href="/courses/ece110">ECE110:  Brain-Inspired Machine Learning</a></li>
+    <li><a href="/courses/ece115">ECE115: Introduction to Solid Mechanics</a></li>
+    <li><a href="/courses/ece118">ECE118: Introduction to Mechatronics</a></li>
+    <li><a href="/courses/ece121">ECE121: Microcontroller System Design</a></li>
+    <li><a href="/courses/ece122A">ECE122A: Collaborative Sustainability Project Design</a></li>
+    <li><a href="/courses/ece122B">ECE122B: Collaborative Sustainability Project Implementation</a></li>
+    <li><a href="/courses/ece122C">ECE122C: Collaborative Sustainability Project Implementation</a></li>
+    <li><a href="/courses/ece129B">ECE129B: Capstone Project II</a></li>
+    <li><a href="/courses/ece129C">ECE129C: Capstone Project III</a></li>
+    <li><a href="/courses/ece129A">ECE129A: Capstone Project I</a></li>
+    <li><a href="/courses/ece130L">ECE130L: Introduction to Optoelectronics Laboratory</a></li>
+    <li><a href="/courses/ece130">ECE130: Introduction to Optoelectronics and Photonics</a></li>
+    <li><a href="/courses/ece135L">ECE135L: Electromagnetic Fields and Waves Laboratory </a></li>
+    <li><a href="/courses/ece135">ECE135: Electromagnetic Fields and Waves</a></li>
+    <li><a href="/courses/ece136">ECE136: Engineering Electromagnetics</a></li>
+    <li><a href="/courses/ece141">ECE141: Feedback Control Systems</a></li>
+    <li><a href="/courses/ece141A">ECE141A: Feedback Control Systems</a></li>
+    <li><a href="/courses/ece145">ECE145: Estimation and Introduction to Control of Stochastic Processes</a></li>
+    <li><a href="/courses/ece149">ECE149: Introduction to Cyber-physical Systems</a></li>
+    <li><a href="/courses/ece151">ECE151: Communications Systems</a></li>
+    <li><a href="/courses/ece152">ECE152: Introduction to Wireless Communications</a></li>
+    <li><a href="/courses/ece153">ECE153: Digital Signal Processing</a></li>
+    <li><a href="/courses/ece157">ECE157: RF Hardware Design</a></li>
+    <li><a href="/courses/ece157L">ECE157L: RF Hardware Design</a></li>
+    <li><a href="/courses/ece163">ECE163: Introduction to Small-Scale UAV Theory and Practice</a></li>
+    <li><a href="/courses/ece167">ECE167: Sensing and Sensor Technologies</a></li>
+    <li><a href="/courses/ece169">ECE169: Electric Machinery and Control</a></li>
+    <li><a href="/courses/ece170">ECE170: Advanced Power Electronics</a></li>
+    <li><a href="/courses/ece171L">ECE171L: Analog Electronics Laboratory</a></li>
+    <li><a href="/courses/ece171">ECE171: Analog Electronics</a></li>
+    <li><a href="/courses/ece172">ECE172: Advanced Analog Circuits</a></li>
+    <li><a href="/courses/ece173">ECE173: High-Speed Digital Design</a></li>
+    <li><a href="/courses/ece174">ECE174: Introduction to EDA Tools for PCB Design</a></li>
+    <li><a href="/courses/ece175L">ECE175L: Energy Generation and Control Laboratory</a></li>
+    <li><a href="/courses/ece175">ECE175: Energy Generation and Control</a></li>
+    <li><a href="/courses/ece176L">ECE176L: Energy Conversion and Control Laboratory</a></li>
+    <li><a href="/courses/ece176">ECE176: Energy Conversion and Control</a></li>
+    <li><a href="/courses/ece177L">ECE177L: Power Electronics Laboratory</a></li>
+    <li><a href="/courses/ece177">ECE177: Power Electronics</a></li>
+    <li><a href="/courses/ece178">ECE178: Device Electronics</a></li>
+    <li><a href="/courses/ece179">ECE179: Decision Analysis in Management</a></li>
+    <li><a href="/courses/ece180J">ECE180J: Advanced Renewable Energy Sources, Storage, and Smart Grids</a></li>
+    <li><a href="/courses/ece181J">ECE181J: Renewable Energy Sources in Practice</a></li>
+    <li><a href="/courses/ece183">ECE183: Special Topics in Electrical Engineering</a></li>
+    <li><a href="/courses/ece185">ECE185: Introduction to the US Electricity Industry</a></li>
+    <li><a href="/courses/ece193F">ECE193F: Field Study</a></li>
+    <li><a href="/courses/ece193">ECE193: Field Study</a></li>
+    <li><a href="/courses/ece195F">ECE195F: Senior Thesis Research</a></li>
+    <li><a href="/courses/ece195">ECE195: Senior Thesis Research</a></li>
+    <li><a href="/courses/ece198F">ECE198F: Independent Field Study</a></li>
+    <li><a href="/courses/ece198">ECE198: Individual Study or Research</a></li>
+    <li><a href="/courses/ece199F">ECE199F: Tutorial</a></li>
+    <li><a href="/courses/ece200">ECE200: Research and Teaching in Electrical Engineering</a></li>
+    <li><a href="/courses/ece201">ECE201: Introduction to Nanotechnology</a></li>
+    <li><a href="/courses/ece203">ECE203: Nanocharacterization of Materials</a></li>
+    <li><a href="/courses/ece204">ECE204: Bio-Electronics And Bio-Instrumentations</a></li>
+    <li><a href="/courses/ece205">ECE205: Fundamentals of Nanoelectronics</a></li>
+    <li><a href="/courses/ece207">ECE207: Nanomaterials and Nanometer-scale Device</a></li>
+    <li><a href="/courses/ece210">ECE210: Brain-Inspired Machine Learning</a></li>
+    <li><a href="/courses/ece215">ECE215: Models of Robotic Manipulation</a></li>
+    <li><a href="/courses/ece216">ECE216: Bio-inspired Locomotion</a></li>
+    <li><a href="/courses/ece218">ECE218: Mechatronics</a></li>
+    <li><a href="/courses/ece220">ECE220: Introduction to Imaging Instrumentation: Physics, Engineering, and Application</a></li>
+    <li><a href="/courses/ece221">ECE221: Advanced Analog Integrated Circuits</a></li>
+    <li><a href="/courses/ece222">ECE222: High-Speed Low-Power Integrated Circuit Design</a></li>
+    <li><a href="/courses/ece222A">ECE222A: Advances in Agriculture Technology</a></li>
+    <li><a href="/courses/ece223">ECE223: Advanced Solid State Devices</a></li>
+    <li><a href="/courses/ece224">ECE224: Device Electronics</a></li>
+    <li><a href="/courses/ece225">ECE225: Semiconductor Processing and Bandgap Engineering</a></li>
+    <li><a href="/courses/ece226">ECE226: CMOS Radio Frequency Integrated Circuit Design</a></li>
+    <li><a href="/courses/ece227">ECE227: Fundamentals of Semiconductor Physics</a></li>
+    <li><a href="/courses/ece228">ECE228: Engineering of Thin Film Deposition</a></li>
+    <li><a href="/courses/ece229">ECE229: Quantum Electronics</a></li>
+    <li><a href="/courses/ece230">ECE230: Optical Fiber Communication</a></li>
+    <li><a href="/courses/ece231">ECE231: Optical Electronics</a></li>
+    <li><a href="/courses/ece232">ECE232: Integrated Biophotonics</a></li>
+    <li><a href="/courses/ece236">ECE236: Optics and Microscopy</a></li>
+    <li><a href="/courses/ece237">ECE237: Image Processing and Reconstruction</a></li>
+    <li><a href="/courses/ece240">ECE240: Introduction to Linear Dynamical Systems</a></li>
+    <li><a href="/courses/ece241">ECE241: Introduction to Feedback Control Systems</a></li>
+    <li><a href="/courses/ece241A">ECE241A: Introduction to Feedback Control Systems</a></li>
+    <li><a href="/courses/ece242">ECE242: Applied Feedback Control</a></li>
+    <li><a href="/courses/ece243">ECE243: System Identification</a></li>
+    <li><a href="/courses/ece244">ECE244: Digital Control</a></li>
+    <li><a href="/courses/ece245">ECE245: Estimation and Introduction to Control of Stochastic Processes</a></li>
+    <li><a href="/courses/ece246">ECE246: Hybrid Dynamical Systems</a></li>
+    <li><a href="/courses/ece249">ECE249: Introduction to Cyber-physical Systems</a></li>
+    <li><a href="/courses/ece250">ECE250: Digital Signal Processing</a></li>
+    <li><a href="/courses/ece251">ECE251: Principles of Digital Communications</a></li>
+    <li><a href="/courses/ece252">ECE252: Wireless Communications</a></li>
+    <li><a href="/courses/ece253">ECE253: Introduction to Information Theory</a></li>
+    <li><a href="/courses/ece254">ECE254: Radar, Synthetic Aperture Radar, and ISAR</a></li>
+    <li><a href="/courses/ece255">ECE255: Error Control Coding</a></li>
+    <li><a href="/courses/ece256">ECE256: Statistical Signal Processing</a></li>
+    <li><a href="/courses/ece258">ECE258: Introduction to Inverse Problems</a></li>
+    <li><a href="/courses/ece263">ECE263: Small-Scale UAV Theory and Practice</a></li>
+    <li><a href="/courses/ece269">ECE269: Electric Machinery and Control</a></li>
+    <li><a href="/courses/ece270">ECE270: Advanced Power Electronics</a></li>
+    <li><a href="/courses/ece275">ECE275: Energy Market, Policy, and  Modeling</a></li>
+    <li><a href="/courses/ece279">ECE279: Optimization and Control for Electric Power Systems</a></li>
+    <li><a href="/courses/ece280B">ECE280B: Seminar on Integrated Bioelectronics</a></li>
+    <li><a href="/courses/ece280C">ECE280C: Seminar on Control</a></li>
+    <li><a href="/courses/ece280M">ECE280M: Seminar on Micro-Electro-Mechanical Systems (MEMS)</a></li>
+    <li><a href="/courses/ece280N">ECE280N: Seminar on Nanophotonics and Lab-on-Chip Systems</a></li>
+    <li><a href="/courses/ece280O">ECE280O: Seminar on Applied Optics</a></li>
+    <li><a href="/courses/ece280Q">ECE280Q: Seminar on Quantum Electronics and Nanoelectronics</a></li>
+    <li><a href="/courses/ece280Z">ECE280Z: Seminar on Smart Grids and Data Analytics</a></li>
+    <li><a href="/courses/ece280D">ECE280D: Graduate Research Seminar</a></li>
+    <li><a href="/courses/ece280A">ECE280A: Current topics in Applied Microscopy and Neuronal Imaging</a></li>
+    <li><a href="/courses/ece283">ECE283: Special Topics in Electrical Engineering</a></li>
+    <li><a href="/courses/ece290">ECE290: EE Graduate Seminar</a></li>
+    <li><a href="/courses/ece291">ECE291: Tomorrow&#039;s Professors, Engineers, and Entrepreneurs</a></li>
+    <li><a href="/courses/ece293">ECE293: Advanced Topics in Electrical Engineering</a></li>
+    <li><a href="/courses/ece296">ECE296: Master Project</a></li>
+  </ul>
+<h2><a href="/courses/GAME">Games and Playable Media/Serious Games</a></h2>
+<ul>
+    <li><a href="/courses/game200">GAME200: Game Design Systems</a></li>
+    <li><a href="/courses/game201">GAME201: Level Design</a></li>
+    <li><a href="/courses/game202">GAME202: Introduction to Build (Advanced): Physical Computing </a></li>
+    <li><a href="/courses/game210">GAME210: Game Art Intensive</a></li>
+    <li><a href="/courses/game215">GAME215: Audio Direction</a></li>
+    <li><a href="/courses/game221">GAME221: Professional Development for Game Makers</a></li>
+    <li><a href="/courses/game222">GAME222: Professional Development for Game Makers II</a></li>
+    <li><a href="/courses/game223">GAME223: Professional Development for Games Makers III</a></li>
+    <li><a href="/courses/game230">GAME230: Fundamentals of Game Engineering</a></li>
+    <li><a href="/courses/game231">GAME231: Game Technologies</a></li>
+    <li><a href="/courses/game232">GAME232: Advanced Game Technologies</a></li>
+    <li><a href="/courses/game235">GAME235: Game Development I</a></li>
+    <li><a href="/courses/game236">GAME236: Game Development II</a></li>
+    <li><a href="/courses/game238">GAME238: Computer Graphics for Games</a></li>
+    <li><a href="/courses/game240">GAME240: Game Usability</a></li>
+    <li><a href="/courses/game250">GAME250: Foundations of Serious Games and Gamification</a></li>
+    <li><a href="/courses/game251">GAME251: Games User Research</a></li>
+    <li><a href="/courses/game252">GAME252: Modeling and Simulation</a></li>
+    <li><a href="/courses/game255">GAME255: Serious Games Studio I</a></li>
+    <li><a href="/courses/game256">GAME256: Serious Games Studio II</a></li>
+    <li><a href="/courses/game257">GAME257: Serious Games Studio III</a></li>
+    <li><a href="/courses/game270">GAME270: Game and Playable Media Studio 1</a></li>
+    <li><a href="/courses/game271">GAME271: Game &amp; Playable Media Studio II</a></li>
+    <li><a href="/courses/game272">GAME272: Game &amp; Playable Media Studio III</a></li>
+    <li><a href="/courses/game273">GAME273: Game Production Intensive</a></li>
+    <li><a href="/courses/game280A">GAME280A: Games Proseminar</a></li>
+    <li><a href="/courses/game280Y">GAME280Y: Games You Should Know</a></li>
+    <li><a href="/courses/game290A">GAME290A: Advanced Topics in Games</a></li>
+  </ul>
+<h2><a href="/courses/HCI">Human Computer Interaction</a></h2>
+<ul>
+    <li><a href="/courses/hci200">HCI200: Introduction to HCI</a></li>
+    <li><a href="/courses/hci201">HCI201: Introduction to HCI Methods</a></li>
+    <li><a href="/courses/hci202A">HCI202A: Introduction to Build: Bootcamp</a></li>
+    <li><a href="/courses/hci202B">HCI202B:  Introduction to Build (Advanced): Physical Computing </a></li>
+    <li><a href="/courses/hci203">HCI203: Introduction to Research</a></li>
+    <li><a href="/courses/hci220">HCI220: Ethics and Activism in Tech and Design</a></li>
+    <li><a href="/courses/hci250">HCI250: Participatory Design</a></li>
+    <li><a href="/courses/hci271">HCI271: HCI Capstone 1</a></li>
+    <li><a href="/courses/hci272">HCI272: HCI Capstone 2</a></li>
+    <li><a href="/courses/hci290">HCI290: HCI Seminar</a></li>
+  </ul>
+<h2><a href="/courses/NLP">Natural Language Processing</a></h2>
+<ul>
+    <li><a href="/courses/nlp201">NLP201: Natural Language Processing I</a></li>
+    <li><a href="/courses/nlp202">NLP202: Natural Language Processing II</a></li>
+    <li><a href="/courses/nlp203">NLP203: Natural Language Processing III</a></li>
+    <li><a href="/courses/nlp220">NLP220: Data Science and Machine Learning Fundamentals</a></li>
+    <li><a href="/courses/nlp243">NLP243: Deep Learning for Natural Language Processing</a></li>
+    <li><a href="/courses/nlp244">NLP244: Advanced Machine Learning for Natural Language Processing</a></li>
+    <li><a href="/courses/nlp245">NLP245: Conversational Agents</a></li>
+    <li><a href="/courses/nlp255">NLP255: Topics in Applied Natural Language Processing</a></li>
+    <li><a href="/courses/nlp267">NLP267: Machine Translation</a></li>
+    <li><a href="/courses/nlp270">NLP270: Linguistic Models of Syntax and Semantics for Computer Scientists</a></li>
+    <li><a href="/courses/nlp271B">NLP271B: Capstone II: Natural Language Processing</a></li>
+    <li><a href="/courses/nlp271C">NLP271C: Capstone III: Natural Language Processing</a></li>
+    <li><a href="/courses/nlp271A">NLP271A: Capstone I:  Recent Research in NLP</a></li>
+    <li><a href="/courses/nlp280">NLP280: Seminar in Natural Language Processing</a></li>
+  </ul>
+<h2><a href="/courses/STAT">Statistics</a></h2>
+<ul>
+    <li><a href="/courses/stat5">STAT5: Statistics</a></li>
+    <li><a href="/courses/stat7L">STAT7L: Statistical Methods for the Biological, Environmental, and Health Sciences Laboratory</a></li>
+    <li><a href="/courses/stat7">STAT7: Statistical Methods for the Biological, Environmental, and Health Sciences</a></li>
+    <li><a href="/courses/stat17">STAT17: Statistical Methods for Business and Economics</a></li>
+    <li><a href="/courses/stat17L">STAT17L: Statistical Methods for Business and Economics Laboratory</a></li>
+    <li><a href="/courses/stat80A">STAT80A: Gambling and Gaming</a></li>
+    <li><a href="/courses/stat80B">STAT80B: The Art of Data Visualization</a></li>
+    <li><a href="/courses/stat108">STAT108: Linear Regression</a></li>
+    <li><a href="/courses/stat131">STAT131: Introduction to Probability Theory</a></li>
+    <li><a href="/courses/stat132">STAT132: Classical and Bayesian Inference</a></li>
+    <li><a href="/courses/stat155">STAT155: Methods in Data Science</a></li>
+    <li><a href="/courses/stat200">STAT200: Research and Teaching in Statistics</a></li>
+    <li><a href="/courses/stat202">STAT202: Linear Models in SAS</a></li>
+    <li><a href="/courses/stat203">STAT203: Introduction of Probability Theory</a></li>
+    <li><a href="/courses/stat204">STAT204: Introduction to Statistical Data Analysis</a></li>
+    <li><a href="/courses/stat205">STAT205: Introduction to Classical Statistical Learning</a></li>
+    <li><a href="/courses/stat205B">STAT205B: Intermediate Classical Inference</a></li>
+    <li><a href="/courses/stat206B">STAT206B: Intermediate Bayesian Inference</a></li>
+    <li><a href="/courses/stat206">STAT206: Applied Bayesian Statistics</a></li>
+    <li><a href="/courses/stat207">STAT207: Intermediate Bayesian Statistical Modeling</a></li>
+    <li><a href="/courses/stat208">STAT208: Linear Statistical Models</a></li>
+    <li><a href="/courses/stat209">STAT209: Generalized Linear Models</a></li>
+    <li><a href="/courses/stat222">STAT222: Bayesian Nonparametric Methods</a></li>
+    <li><a href="/courses/stat223">STAT223: Time Series Analysis</a></li>
+    <li><a href="/courses/stat224">STAT224: Bayesian Survival Analysis and Clinical Trial Design</a></li>
+    <li><a href="/courses/stat225">STAT225: Multivariate Statistical Methods</a></li>
+    <li><a href="/courses/stat226">STAT226: Spatial Statistics</a></li>
+    <li><a href="/courses/stat227">STAT227: Statistical Learning and High Dimensional Data Analysis</a></li>
+    <li><a href="/courses/stat229">STAT229: Advanced Bayesian Computation</a></li>
+    <li><a href="/courses/stat243">STAT243: Stochastic Processes</a></li>
+    <li><a href="/courses/stat244">STAT244: Bayesian Decision Theory</a></li>
+    <li><a href="/courses/stat246">STAT246: Probability Theory with Markov Chains</a></li>
+    <li><a href="/courses/stat266B">STAT266B: Advanced Statistical Programming in R</a></li>
+    <li><a href="/courses/stat266C">STAT266C: Introduction to Data Wrangling</a></li>
+    <li><a href="/courses/stat266A">STAT266A: Data Visualization and Statistical Programming in R</a></li>
+    <li><a href="/courses/stat280D">STAT280D: Seminar in Bayesian Statistical Methodology</a></li>
+    <li><a href="/courses/stat280B">STAT280B: Seminars in Statistics</a></li>
+    <li><a href="/courses/stat291">STAT291: Advanced Topics in Bayesian Statistics</a></li>
+  </ul>
+<h2><a href="/courses/TIM">Technology &amp; Information Management</a></h2>
+<ul>
+    <li><a href="/courses/tim20">TIM20: Innovation and Entrepreneurship Seminar</a></li>
+    <li><a href="/courses/tim21">TIM21: Innovation and Entrepreneurship in Practice</a></li>
+    <li><a href="/courses/tim50">TIM50: Business Information Systems</a></li>
+    <li><a href="/courses/tim58">TIM58: Systems Analysis and Design</a></li>
+    <li><a href="/courses/tim80C">TIM80C: Starting a New Technology Company</a></li>
+    <li><a href="/courses/tim94">TIM94: Group Tutorial</a></li>
+    <li><a href="/courses/tim94F">TIM94F: Group Tutorial</a></li>
+    <li><a href="/courses/tim99">TIM99: Tutorial</a></li>
+    <li><a href="/courses/tim99F">TIM99F: Tutorial</a></li>
+    <li><a href="/courses/tim145">TIM145: Introduction to Data Mining </a></li>
+    <li><a href="/courses/tim147">TIM147: Introduction to Data Mining for Business</a></li>
+    <li><a href="/courses/tim150">TIM150: Optimization for Management</a></li>
+    <li><a href="/courses/tim170">TIM170: Management of Technology Seminar</a></li>
+    <li><a href="/courses/tim172A">TIM172A: Introduction to Management of Technology I</a></li>
+    <li><a href="/courses/tim172P">TIM172P: Management of Technology Project I</a></li>
+    <li><a href="/courses/tim172B">TIM172B: Introduction to Management of Technology II</a></li>
+    <li><a href="/courses/tim172Q">TIM172Q: Management of Technology Project II</a></li>
+    <li><a href="/courses/tim173">TIM173: Financial Engineering &amp; Management in High Technology Firms</a></li>
+    <li><a href="/courses/tim175">TIM175: Business Strategy and Information Systems</a></li>
+    <li><a href="/courses/tim193">TIM193: Field Study</a></li>
+    <li><a href="/courses/tim193F">TIM193F: Field Study</a></li>
+    <li><a href="/courses/tim194">TIM194: Group Tutorial</a></li>
+    <li><a href="/courses/tim194F">TIM194F: Group Tutorial</a></li>
+    <li><a href="/courses/tim195">TIM195: Senior Thesis Research</a></li>
+    <li><a href="/courses/tim195F">TIM195F: Senior Thesis Research</a></li>
+    <li><a href="/courses/tim198">TIM198: Individual Study or Research</a></li>
+    <li><a href="/courses/tim198F">TIM198F: Individual Study or Research</a></li>
+    <li><a href="/courses/tim199">TIM199: Individual Study or Research</a></li>
+  </ul>
+
+
+  </div>
+
+  </div>
+
+    </div>
+  </main>
+
+    
+
+</div>
+      <footer role="contentinfo">
+            <div class="region region-footer">
+    <div id="block-footerleft" class="block block-block-content block-block-contentf740e200-24fe-43a3-9a00-3d1de8534c7c">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div id="footer">
+<div id="footer-left"><a href="http://www.ucsc.edu/">UCSC</a></div>
+
+<div id="footer-center">
+<p id="footer-contact">This site is maintained by: <a href="mailto:web-notifications@soe.ucsc.edu">help@soe.ucsc.edu</a></p>
+
+<p id="footer-address">UC Santa Cruz, 1156 High Street, Santa Cruz, CA 95064</p>
+
+<p id="footer-copyright">Copyright © 2022 The Regents of the University of California. All rights reserved.</p>
+</div>
+
+<div id="footer-right"> </div>
+</div>
+</div>
+      
+  </div>
+
+  </div>
+
+      </footer>
+    
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_doffqhP8jHMKkt0aX6b1XeT7Ad57lgb54UCtsuyldi0.js"></script>
+
+  </body>
+</html>
+
