@@ -1,0 +1,9 @@
+# Ignore venv
+.venv/
+
+# Ignore env
+.env
+
+# Ignore python bytecode
+__pycache__/
+*.pyc
