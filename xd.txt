@@ -1,0 +1,390 @@
+Code: Precalculus for the Social Sciences
+Name: AM3
+Link: https://courses.engineering.ucsc.edu/courses/am3
+Link: Introduces mathematical functions and their uses for modeling real-life problems in the social sciences. Includes inequalities, linear and quadratic equations, functions (linear, quadratic, polynomial, rational, power, exponential, logarithmic, trigonometric), inverses, and the composition of functions. Students cannot receive credit for both this course and MATH 3. STEM majors who are taking a precalculus to get into MATH 19A need to take MATH 3. Prerequisite(s): score of 200 or higher on the  mathematics placement examination (MPE), or MATH 2.
+Link: 5 credits
+------
+Code: Precalculus for Statistics
+Name: AM6
+Link: https://courses.engineering.ucsc.edu/courses/am6
+Link: Reviews and introduces mathematical methods useful in the elementary study of statistics, including logic, real numbers, inequalities, linear and quadratic equations, functions, graphs, exponential and logarithmic functions, and summation notation. (Formerly AMS 6.) Prerequisite(s): Mathematics 2 or mathematics placement examination (MPE) score of 200 or higher or higher.
+Link: 5 credits
+------
+Code: Mathematical Methods for Engineers I
+Name: AM10
+Link: https://courses.engineering.ucsc.edu/courses/am10
+Link: Applications-oriented course on complex numbers and linear algebra integrating Matlab as a computational support tool. Introduction to complex algebra. Vectors, bases and transformations, matrix algebra, solutions of linear systems, inverses and determinants, eigenvalues and eigenvectors, and geometric transformations. Students cannot receive credit for this course and MATH 21. (Formerly Mathematical Methods for Engineers I.) Prerequisite(s): score of 400 or higher on the mathematics placement examination (MPE) or MATH 3 or AM 11A or MATH 11A or MATH 19A or MATH 20A.
+Link: 5 credits
+------
+Code: Mathematical Methods for Economists I
+Name: AM11A
+Link: https://courses.engineering.ucsc.edu/courses/am11A
+Link: Introduction to mathematical tools and reasoning, with applications to economics. Topics are drawn from differential calculus in one variable and include limits, continuity, differentiation, elasticity, Taylor polynomials, and optimization. Students cannot receive credit for both this course and MATH 11A or MATH 19A or AM 15A or ECON 11A. Students who have already taken MATH 11A or MATH 19A should not take this course. Prerequisite(s): score of 300 or higher on the mathematics placement examination (MPE), AM 3, or MATH 3.
+Link: 5 credits
+------
+Code: Mathematical Methods for Economists II
+Name: AM11B
+Link: https://courses.engineering.ucsc.edu/courses/am11B
+Link: Mathematical tools and reasoning, with applications to economics. Topics are drawn from multivariable differential calculus and single variable integral calculus, and include partial derivatives, linear and quadratic approximation, optimization with and without constraints, Lagrange multipliers, definite and indefinite integrals, and elementary differential equations. Students cannot receive credit for both this course and MATH 11B or MATH 19B or ECON 11B. Prerequisite(s): AM 11A, or ECON 11A, or MATH 11A, or MATH 19A, or MATH 20A.
+Link: 5 credits
+------
+Code: Case-Study Calculus II
+Name: AM15B
+Link: https://courses.engineering.ucsc.edu/courses/am15B
+Link: Case-study based, second-quarter introduction to single-variable calculus, with computing labs/discussion sections featuring symbolic numerical, and graphical computing tools. Case studies are drawn from biology, environmental science, health science, and psychology. Includes indefinite and definite integrals of functions of a single variable; the fundamental theorem of calculus; integration by parts and other techniques for evaluating integrals; infinite series; Taylor series, polynomial approximations. Students cannot receive credit for this course and course 11B or Economics 11B or Mathematics 11B of 19B. Prerequisite(s): course 15A or 11A or Economics 11A or Mathematics 11A or 19A. (Gen Ed Code(s): IN, Q, MF - Mathematical and Formal Reasoning)
+Link: 5 credits
+------
+Code: Mathematical Methods for Engineers II
+Name: AM20
+Link: https://courses.engineering.ucsc.edu/courses/am20
+Link: Applications-oriented class on ordinary differential equations (ODEs) and systems of ODEs using Matlab as a computational support tool. Covers linear ODEs and systems of linear ODEs; nonlinear ODEs using substitution and Laplace transforms; phase-plane analysis; introduction to numerical methods. Students cannot receive credit for this course and MATH 24. (Formerly Mathematical Methods for Engineers II.) Prerequisite(s): MATH 19B or MATH 20B, and AM 10 or MATH 21.
+Link: 5 credits
+------
+Code: Multivariate Calculus for Engineers
+Name: AM30
+Link: https://courses.engineering.ucsc.edu/courses/am30
+Link: 5 credits
+Link: <i>While the information on this web site is usually the most up to date, in the event of a discrepancy please contact your adviser to confirm which information is correct.</i>
+------
+Code: Mathematical Methods for Engineers III
+Name: AM100
+Link: https://courses.engineering.ucsc.edu/courses/am100
+Link: 5 credits
+Link: Formerly AMS 0100
+------
+Code: Introduction to Fluid Dynamics
+Name: AM107
+Link: https://courses.engineering.ucsc.edu/courses/am107
+Link: Covers fundamental topics in fluid dynamics: Euler and Lagrange descriptions of continuum dynamics; conservation laws for inviscid and viscous flows; potential flows; exact solutions of the Navier-Stokes equation; boundary layer theory; gravity waves. Students cannot receive credit for this course and Applied Mathematics and Statistics 217. Prerequisite(s): AM 112 or MATH 107 or PHYS 116C or EART 111.
+Link: 5 credits
+------
+Code: Introduction to Partial Differential Equations
+Name: AM112
+Link: https://courses.engineering.ucsc.edu/courses/am112
+Link: Teaches analytical methods for the solution of first- and second-order PDEs of two variables, including: the method of characteristics for first-order PDEs; separation of variables for the heat, wave, and Laplace’s equations in a finite or periodic Cartesian domain; homogeneous vs. forced problem; Sturm-Liouville theory; polar and spherical coordinate systems. Each method is illustrated by solving PDEs originating from real-life applications. Students cannot receive credit for this course and AM 212A. Prerequisite(s): AM 100 or by permission of the instructor.
+Link: 5 credits
+------
+Code: Introduction to Dynamical Systems
+Name: AM114
+Link: https://courses.engineering.ucsc.edu/courses/am114
+Link: Introduces continuous and discrete dynamical systems. Topics include: fixed points; stability; limit cycles; bifurcations; transition to and characterization of chaos; fractals. Examples are drawn from sciences and engineering. Students cannot receive credit for this course and course 214. Prerequisite(s): AM 10 or MATH 21; and AM 20 or MATH 24; and AM 30 or MATH 23A or MATH 22; or PHYS 116A. Enrollment is restricted to sophomores, juniors and seniors. Students are also expected to have some familiarity with Matlab (or alternatively Python), through AM 10 and 20. Students who are not familiar with Matlab will be provided with the opportunity to learn it in the first few weeks of class.
+Link: 5 credits
+------
+Code: Stochastic Modeling in Biology
+Name: AM115
+Link: https://courses.engineering.ucsc.edu/courses/am115
+Link: Application of differential equations, probability, and stochastic processes to problems in cell, organismal, and population biology. Topics include systems biology, cellular processes, gene-regulation, and population biology. Students may not receive credit for this course and course 215. Prerequisite(s): STAT 131 and AM 20; a university-level course in biology, and operational knowledge of a programming language; or consent of instructor.
+Link: 5 credits
+------
+Code: Foundations of Scientific Computing for Scientists and Engineers
+Name: AM129
+Link: https://courses.engineering.ucsc.edu/courses/am129
+Link: 5 credits
+Link: Formerly AMS 0129
+------
+Code: Computational Methods and Applications
+Name: AM147
+Link: https://courses.engineering.ucsc.edu/courses/am147
+Link: Applications of computational methods to solving mathematical problems using Matlab. Topics include solution of nonlinear equations, linear systems, differential equations, sparse matrix solver, and eigenvalue problems. Students cannot receive credit for this course and MATH 148. (Formerly AMS 147.) Prerequisite(s): AM 10 or MATH 21. Knowledge of differential equations (AM 20 or MATH 24) is recommended.
+Link: 5 credits
+------
+Code: GPU Programming for Scientific Computations
+Name: AM148
+Link: https://courses.engineering.ucsc.edu/courses/am148
+Link: This second course in scientific computing focuses on the use of parallel processing on GPUs with CUDA. Basic topics covered include the idea of parallelism and parallel architectures. The course then presents key parallel algorithms on GPUs such as scan, reduce, histogram and stencil, and compound algorithms. Applications to scientific computing are drawn from problems in linear algebra, curve fitting, FFTs, systems of ODEs and PDEs, and image processing. Finally, the course presents optimization strategies specific to GPUs. Basic knowledge of Unix, and C is assumed. Prerequisite(s): AM 147 or MATH 148 or PHYS 115. Enrollment is restricted to juniors and seniors.
+Link: 5 credits
+------
+Code: Introduction to Scientific Machine Learning
+Name: AM160
+Link: https://courses.engineering.ucsc.edu/courses/am160
+Link: Introduction to scientific machine learning covering dimension reduction techniques for scientific data, modern methods in sparse regression and compressed sensing, deep neural networks for modeling real-life systems, and neural ordinary differential equations. Prerequisite(s): AM 20 and AM 30, or MATH 24, or PHYS 116A, and AM 129 or CSE 30. Enrollment is restricted to junior and senior students, and graduate students in applied mathematics. Prerequisite courses waived for graduate students.
+Link: 5 credits
+------
+Code: Mathematical Modeling 1
+Name: AM170A
+Link: https://courses.engineering.ucsc.edu/courses/am170A
+Link: Introduction to mathematical modeling emphasizing model construction, tool selection, methods of solution, critical analysis of the results, and professional-level presentation of the results (written and oral). Focuses on problems that can be solved using only analytical tools, and simple Matlab routines. Applications are drawn from a variety of fields such as physics, biology, engineering, and economics. Prerequisite(s): Satisfaction of the Entry Level Writing &amp; Composition requirements. AM 30, and AM 114, and STAT 131 or CSE 107, or by instructor permission. Enrollment is restricted to juniors and seniors majoring in applied mathematics and proposed applied mathematics majors.
+Link: 5 credits
+------
+Code: Mathematical Modeling II
+Name: AM170B
+Link: https://courses.engineering.ucsc.edu/courses/am170B
+Link: Second course in mathematical modeling emphasizing the general process of scientific inquiry: model construction, tool selection, numerical methods of solution, critical analysis of the results, and professional-level presentation of the results (written and oral). Focuses on problems that must be solved using numerical tools. Applications are drawn from a variety of fields. Prerequisites: AM 129, AM 112, and AM 147, and AM 170A. Enrollment is restricted to seniors with a declared or proposed major in Applied Mathematics, or by instructor permission.
+Link: 5 credits
+------
+Code: Learning Assistant Training for AM 10
+Name: AM178A
+Link: https://courses.engineering.ucsc.edu/courses/am178A
+Link: Prepares undergraduate learning assistants (tutors) to become successful learning assistants in AM 10. Topics include roles and responsibilities of tutors; AM 10 learning objectives; effective ways to address particular AM 10 topics that students struggle with; introduction to teaching and learning strategies to utilize in AM10 tutoring sessions; and peer and self observation. Prerequisite(s): AM 20; and AM 30; and previous or concurrent enrollment in STEV 96. Enrollment by permission of the instructor and restricted to Juniors, Seniors, and Graduate students.
+Link: 3 credits
+------
+Code: Research and Teaching in Applied Math
+Name: AM200
+Link: https://courses.engineering.ucsc.edu/courses/am200
+Link: Basic teaching techniques for teaching assistants, including responsibilities and rights; resource materials; computer skills; leading discussions or lab sessions; presentation techniques; maintaining class records; and grading. (Formerly Research and Teaching in Applied Mathematics.) Enrollment is restricted to graduate students.
+Link: 2 credits
+------
+Code: Foundations of Applied Mathematics
+Name: AM211
+Link: https://courses.engineering.ucsc.edu/courses/am211
+Link: Accelerated class reviewing fundamental applied mathematical methods for all sciences. Topics include: multivariate calculus, linear algebra, Fourier series and integral transform methods, complex analysis, and ordinary differential equations. Enrollment is restricted to graduate students.
+Link: 5 credits
+------
+Code: Advanced Methods of Applied Mathematics
+Name: AM212
+Link: https://courses.engineering.ucsc.edu/courses/am212
+Link: Overview of advanced methods for the analytical solution of ODEs and PDEs, including asymptotic analysis (method of strained coordinates; method of multiple scales; matched asymptotics; WKB theory), dimensional analysis, self-similar solutions and Green’s function solutions of PDEs. Introduces students to variational calculus for the optimization of functionals. Students cannot receive credit for this course and AM 212B. Prerequisites: Enrollment is restricted to graduate students or by permission of instructor. Students taking this course need at least one prior undergraduate or M.S.-level course in partial differential equations, similar to AM 112, MATH 107 or PHYS 116C.
+Link: 5 credits
+------
+Code: Applied Mathematical Methods I
+Name: AM212A
+Link: https://courses.engineering.ucsc.edu/courses/am212A
+Link: Focuses on analytical methods for partial differential equations (PDEs), including: the method of characteristics for first-order PDEs; canonical forms of linear second-order PDEs; separation of variables; Sturm-Liouville theory; Green's functions. Illustrates each method using applications taken from examples in physics. AM 211 or equivalent is strongly recommended as preparation. (Formerly AMS 211, Applied Mathematical Methods I.) Enrollment is restricted to graduate students; undergraduates are encouraged to take this class with permission of instructor
+Link: 5 credits
+------
+Code: Applied Mathematical Methods II
+Name: AM212B
+Link: https://courses.engineering.ucsc.edu/courses/am212B
+Link: Covers perturbation methods: asymptotic series, stationary phase and expansion of integrals, matched asymptotic expansions, multiple scales and the WKB method, Padé approximants and improvements of series. Prerequisite(s): Enrollment is restricted to graduate students. Undergraduates may enroll by permission of the instructor.
+Link: 5 credits
+------
+Code: Numerical Solutions of Differential Equations
+Name: AM213
+Link: https://courses.engineering.ucsc.edu/courses/am213
+Link: 5 credits
+Link: Formerly AMS 0213
+------
+Code: Numerical Linear Algebra
+Name: AM213A
+Link: https://courses.engineering.ucsc.edu/courses/am213A
+Link: Focuses on numerical solutions to classic problems of linear algebra. Topics include: LU, Cholesky, and QR factorizations; iterative methods for linear equations; least square, power methods, and QR algorithms for eigenvalue problems; and conditioning and stability of numerical algorithms. Provides hands-on experience in implementing numerical algorithms for solving engineering and scientific problems. Basic knowledge of mathematical linear algebra is assumed. Enrollment is restricted to graduate students. Undergraduate students may enroll with permission of the instructor.
+Link: 5 credits
+------
+Code: Numerical Methods for the Solution of Differential equations
+Name: AM213B
+Link: https://courses.engineering.ucsc.edu/courses/am213B
+Link: Introduces the numerical solutions of ordinary and partial differential equations (ODEs and PDEs). Focuses on the derivation of discrete solution methods for a variety of differential equations, and their stability and convergence. Also provides hands-on experience in implementing such numerical algorithms for the solution of engineering and scientific problems using MATLAB software. The class consists of lectures and hands-on programming sections. Basic mathematical knowledge of ODEs and PDEs is assumed, and a basic working knowledge of programming in MATLAB is expected. Enrollment is restricted to graduate students.
+Link: 5 credits
+------
+Code: Stochastic Modeling in Biology
+Name: AM215
+Link: https://courses.engineering.ucsc.edu/courses/am215
+Link: Application of differential equations and probability and stochastic processes to problems in cell, organismal, and population biology. Topics include: life-history theory, behavioral ecology, and population biology. Students may not receive credit for this course and course 115. (Formerly AMS 215.) Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.
+Link: 5 credits
+------
+Code: Stochastic Differential Equations
+Name: AM216
+Link: https://courses.engineering.ucsc.edu/courses/am216
+Link: Introduction to stochastic differential equations and diffusion processes with applications to biology, biomolecular engineering, and chemical kinetics. Topics include Brownian motion and white noise, gambler's ruin, backward and forward equations, and the theory of boundary conditions. Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.
+Link: 5 credits
+------
+Code: Introduction to Fluid Dynamics
+Name: AM217
+Link: https://courses.engineering.ucsc.edu/courses/am217
+Link: Covers fundamental topics in fluid dynamics at the graduate level: Euler and Lagrange descriptions of continuum dynamics; conservation laws for inviscid and viscous flows; potential flows; exact solutions of the Navier-Stokes equation; boundary layer theory; gravity waves. Students cannot receive credit for this course and course 107. Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.
+Link: 5 credits
+------
+Code: Applied Dynamical Systems
+Name: AM224
+Link: https://courses.engineering.ucsc.edu/courses/am224
+Link: Graduate-level course in dynamical systems theory, focusing on n-dimensional continuous dynamical systems. Covers fixed points, stability (linear and Lyapunov), normal forms, center manifold theorem, Liouville theorem, reversible and gradient flows, conservative systems, and quantitative characterization of chaos. Enrollment is restricted to graduate students or by permission of instructor. An introductory course in dynamical systems theory (e.g. AM 114 or MATH 145 or AM 214), partial differential equations (e.g. AM 112 or MATH 107) as well as experience with programming and scientific computing using Matlab or Python, are strongly recommended.
+Link: 5 credits
+------
+Code: Waves, Instabilities, and Turbulence in Fluids
+Name: AM227
+Link: https://courses.engineering.ucsc.edu/courses/am227
+Link: Advanced fluid dynamics course introducing various types waves and instabilities that commonly arise in geophysical and astrophysical systems, as well as turbulence. Topics covered include, but are not limited to: pressure waves, gravity waves, convection, shear instabilities, and turbulence. Advanced mathematical methods are used to study each topic. Undergraduates are encouraged to take this course with permission of the instructor. (Formerly Waves and Instabilities in Fluids.) Prerequisite(s): AM 212A and AM 217.
+Link: 5 credits
+------
+Code: Convex Optimization
+Name: AM229
+Link: https://courses.engineering.ucsc.edu/courses/am229
+Link: 5 credits
+Link: Formerly AMS 0229
+------
+Code: Numerical Optimization
+Name: AM230
+Link: https://courses.engineering.ucsc.edu/courses/am230
+Link: 5 credits
+Link: Formerly AMS 0230
+------
+Code: Nonlinear Control Theory
+Name: AM231
+Link: https://courses.engineering.ucsc.edu/courses/am231
+Link: 5 credits
+Link: Formerly AMS 0231
+------
+Code: Applied Optimal Control
+Name: AM232
+Link: https://courses.engineering.ucsc.edu/courses/am232
+Link: 5 credits
+Link: Formerly AMS 0232
+------
+Code: Fundamentals of Uncertainty Quantification in Computational Science and Engineering
+Name: AM238
+Link: https://courses.engineering.ucsc.edu/courses/am238
+Link: 5 credits
+Link: Formerly AMS 0238
+------
+Code: An Introduction to High Performance Computing
+Name: AM250
+Link: https://courses.engineering.ucsc.edu/courses/am250
+Link: 5 credits
+Link: Formerly AMS 0250
+------
+Code: Computational Fluid Dynamics
+Name: AM260
+Link: https://courses.engineering.ucsc.edu/courses/am260
+Link: 5 credits
+Link: Formerly AMS 0260
+------
+Code: Linguistic Models of Syntax and Semantics for Computer Scientists
+Name: AM270
+Link: https://courses.engineering.ucsc.edu/courses/am270
+Link: This course provides an introduction to theoretical linguistics for natural language processing, focusing on morphology, syntax, semantics, and pragmatics and on training students in linguistic description, representation, and argumentation. Students will learn to describe common features underlying natural languages and to manipulate several syntactic and semantic representations. Enrollment is restricted to NLP graduate students and CSE PhD students, or by permission of instructor.
+Link: 5 credits
+------
+Code: Magnetohydrodynamics
+Name: AM275
+Link: https://courses.engineering.ucsc.edu/courses/am275
+Link: 5 credits
+Link: Formerly AMS 0275
+------
+Code: Seminar in Applied Mathematical Modeling
+Name: AM280B
+Link: https://courses.engineering.ucsc.edu/courses/am280B
+Link: 2 credits
+Link: Formerly AMS 280B
+------
+Code: Seminar in Mathematical and Computational Biology
+Name: AM280A
+Link: https://courses.engineering.ucsc.edu/courses/am280A
+Link: 2 credits
+Link: Formerly AMS 0280A
+------
+Code: Seminar in Geophysical &amp; Astrophysical Fluid Dynamics
+Name: AM280C
+Link: https://courses.engineering.ucsc.edu/courses/am280C
+Link: 2 credits
+Link: Formerly AMS 0280C
+------
+Code: Testing Coursee
+Name: AM888A
+Link: https://courses.engineering.ucsc.edu/courses/am888A
+Link: This is a testing course for website testing.
+Link:  
+------
+Code: Testing Course
+Name: AM888
+Link: https://courses.engineering.ucsc.edu/courses/am888
+Link: 5 credits
+Link: <i>While the information on this web site is usually the most up to date, in the event of a discrepancy please contact your adviser to confirm which information is correct.</i>
+------
+Code: Introduction to Biomolecular Engineering Problem Solving
+Name: BME1
+Link: https://courses.engineering.ucsc.edu/courses/bme1
+Link: Introduction to biomolecular engineering through identification of current problems and their solutions. Intended for any student interested in BME. Students critically read primary research articles, search scientific literature, and identify relevant, trustworthy sources of information. Students learn about the engineering design process and common experimental tools used in biomolecular engineering research. Major course assignments include writing assignments and a team presentation.
+Link: 2 credits
+------
+Code: Introduction to Biotechnology
+Name: BME5
+Link: https://courses.engineering.ucsc.edu/courses/bme5
+Link: 5 credits
+Link: <i>While the information on this web site is usually the most up to date, in the event of a discrepancy please contact your adviser to confirm which information is correct.</i>
+------
+Code: Scientific Principles of Life
+Name: BME18
+Link: https://courses.engineering.ucsc.edu/courses/bme18
+Link: 5 credits
+Link: <i>While the information on this web site is usually the most up to date, in the event of a discrepancy please contact your adviser to confirm which information is correct.</i>
+------
+Code: Introduction to basic laboratory techniques
+Name: BME21L
+Link: https://courses.engineering.ucsc.edu/courses/bme21L
+Link: Laboratory course providing hands-on training in fundamental techniques used to express, isolate, and analyze genes in prokaryotic cells. Introduction to common laboratory instruments and fundamental skills required for basic research in molecular biology and biomolecular engineering. Prerequisites: CHEM 1M or CHEM 3BL, or CHEM 4BL. Enrollment is restricted to bioengineering, bioinformatics, and biomolecular engineering and bioinformatics majors and proposed majors.
+Link:  
+------
+Code: Foundations of Design and Experimentation in Molecular Biology
+Name: BME22L
+Link: https://courses.engineering.ucsc.edu/courses/bme22L
+Link: Project-based laboratory course providing hands-on training in fundamental molecular biology and biomolecular engineering techniques used to manipulate expression of DNA and proteins in prokaryotic cells. Students are introduced to essential processes in experimental design. Prerequisite(s): BME 21L. Enrollment is restricted to bioengineering, bioinformatics, and biomolecular engineering and bioinformatics majors and proposed majors.
+Link: 2 credits
+------
+Code: Foundations of Design and Experimentation in Molecular Biology, Part II
+Name: BME23L
+Link: https://courses.engineering.ucsc.edu/courses/bme23L
+Link: Project-based laboratory course providing in-depth, hands-on experience in fundamental molecular biology and biomolecular engineering techniques used to manipulate expression of a gene of interest in prokaryotic cells. Emphasis on engineering design principles in experimental practice in the context of current research in the field. Prerequisites: BME 22L. Enrollment is restricted to bioengineering, bioinformatics, and biomolecular engineering and bioinformatics majors and proposed majors.
+Link: 2 credits
+------
+Code: Applied Electronics for Bioengineers part 1
+Name: BME51A
+Link: https://courses.engineering.ucsc.edu/courses/bme51A
+Link: 5 credits
+Link: <i>While the information on this web site is usually the most up to date, in the event of a discrepancy please contact your adviser to confirm which information is correct.</i>
+------
+Code: Applied Electronics for Bioengineers part 2
+Name: BME51B
+Link: https://courses.engineering.ucsc.edu/courses/bme51B
+Link: 5 credits
+Link: <i>While the information on this web site is usually the most up to date, in the event of a discrepancy please contact your adviser to confirm which information is correct.</i>
+------
+Code: Introduction to Lab Groups
+Name: BME55
+Link: https://courses.engineering.ucsc.edu/courses/bme55
+Link: 2 credits
+Link: <i>While the information on this web site is usually the most up to date, in the event of a discrepancy please contact your adviser to confirm which information is correct.</i>
+------
+Code: Programming for Biologists and Biochemists
+Name: BME60
+Link: https://courses.engineering.ucsc.edu/courses/bme60
+Link: 5 credits
+Link: <i>While the information on this web site is usually the most up to date, in the event of a discrepancy please contact your adviser to confirm which information is correct.</i>
+------
+Code: Programming for Biologists and Biochemists Laboratory
+Name: BME60L
+Link: https://courses.engineering.ucsc.edu/courses/bme60L
+Link: 1 credits
+Link: <i>While the information on this web site is usually the most up to date, in the event of a discrepancy please contact your adviser to confirm which information is correct.</i>
+------
+Code: Bioethics in the 21st Century
+Name: BME80G
+Link: https://courses.engineering.ucsc.edu/courses/bme80G
+Link: 5 credits
+Link: <i>While the information on this web site is usually the most up to date, in the event of a discrepancy please contact your adviser to confirm which information is correct.</i>
+------
+Code: The Human Genome
+Name: BME80H
+Link: https://courses.engineering.ucsc.edu/courses/bme80H
+Link: 5 credits
+Link: <i>While the information on this web site is usually the most up to date, in the event of a discrepancy please contact your adviser to confirm which information is correct.</i>
+------
+Code: Group Tutorial
+Name: BME94
+Link: https://courses.engineering.ucsc.edu/courses/bme94
+Link: 5 credits
+Link: <i>While the information on this web site is usually the most up to date, in the event of a discrepancy please contact your adviser to confirm which information is correct.</i>
+------
+Code: Group Tutorial
+Name: BME94F
+Link: https://courses.engineering.ucsc.edu/courses/bme94F
+Link: 2 credits
+Link: <i>While the information on this web site is usually the most up to date, in the event of a discrepancy please contact your adviser to confirm which information is correct.</i>
+------
+Code: Tutorial
+Name: BME99
+Link: https://courses.engineering.ucsc.edu/courses/bme99
+Link: 5 credits
+Link: <i>While the information on this web site is usually the most up to date, in the event of a discrepancy please contact your adviser to confirm which information is correct.</i>
+------
+Code: Tutorial
+Name: BME99F
+Link: https://courses.engineering.ucsc.edu/courses/bme99F
+Link: 2 credits
+Link: <i>While the information on this web site is usually the most up to date, in the event of a discrepancy please contact your adviser to confirm which information is correct.</i>
+------
+Code: Applied Electronics for Bioengineers
+Name: BME101
+Link: https://courses.engineering.ucsc.edu/courses/bme101
+Link: Provides an overview of the biochemistry of three types of biomolecules. Also covers how DNA is replicated and stores genetic information, how RNA is transcribed and transports genetic information, and how proteins are synthesized and perform a variety of functions. Focuses on genes and how they are regulated. Prerequisites: BIOL 20A.
+Link: 5 credits
+------

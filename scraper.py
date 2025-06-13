@@ -1,4 +1,5 @@
 import requests
+import courses
 from bs4 import BeautifulSoup, ResultSet
 
 # Get HTML from BSOE course website
@@ -10,6 +11,15 @@ soup: BeautifulSoup = BeautifulSoup(page.content, "html.parser")
 
 course_links: ResultSet = soup.select("li > a")  # Select all <a> directly inside <li>
 
-lol = course_links[200].decode_contents()
+BSOEcourses: courses.Courses = courses.Courses(course_links)
+for course in BSOEcourses:
+    print(f"Code: {course.code}")
+    print(f"Name: {course.name}")
+    print(f"Link: {course.link}")
+    print(f"Link: {course.course_discription}")
+    print(f"Link: {course.credit_num}")
+    print("------")
 
-# print(page.text)
+
+
+
