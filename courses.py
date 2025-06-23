@@ -1,7 +1,6 @@
-from typing import Iterator, NamedTuple, Tuple
+from typing import Iterator, NamedTuple
 import requests
 from bs4 import Tag, ResultSet, BeautifulSoup
-from requests.models import stream_decode_response_unicode
 
 
 # the following fucntions takes string like:
@@ -16,20 +15,25 @@ def get_course_code(raw: Tag) -> str:
     inner_txt: str = raw.decode_contents()
     return inner_txt.split(":")[1][1:]
 
+
 # appends href to root link
 def get_link(raw: Tag) -> str:
     page_route: str = str(raw.get("href"))
     return "https://courses.engineering.ucsc.edu" + page_route
-    
+
+
 # fetches coure credits and description
 def get_description(link: str) -> tuple[str, str]:
     page: requests.Response = requests.get(link)
-    soup = BeautifulSoup(page.content, "html.parser")
-    elements = soup.find(id="block-bsoe-specific-content")
-    .select("p")
+    soup: BeautifulSoup = BeautifulSoup(page.content, "html.parser")
+    if soup is None:
+        return ("Not Found", "Not Found")
+    content = soup.find(id="block-bsoe-specific-content")
+    elements = content.select("p")  # type: ignore[union-attr]
     courseDis: str = elements[0].decode_contents()
     creditNum: str = elements[1].decode_contents()
     return (courseDis, creditNum)
+
 
 # Name Tuple that iter returns
 class Course(NamedTuple):
@@ -60,5 +64,7 @@ class Courses(Iterator[Course]):
         class_code: str = get_course_code(tag)
         class_name: str = get_course_name(tag)
         class_link: str = get_link(tag)
-        dis_and_credit: tuple[str,str] = get_description(class_link)
-        return Course(class_code, class_name, class_link, dis_and_credit[0], dis_and_credit[1])
+        dis_and_credit: tuple[str, str] = get_description(class_link)
+        return Course(
+            class_code, class_name, class_link, dis_and_credit[0], dis_and_credit[1]
+        )

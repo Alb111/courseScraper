@@ -16,10 +16,7 @@ for course in BSOEcourses:
     print(f"Code: {course.code}")
     print(f"Name: {course.name}")
     print(f"Link: {course.link}")
-    print(f"Link: {course.course_discription}")
-    print(f"Link: {course.credit_num}")
+    print(f"Description: {course.course_discription}")
+    print(f"Credit Number: {course.credit_num}")
     print("------")
-
-
-
-
+    break
