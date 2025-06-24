@@ -8,3 +8,7 @@ black .
 
 ## to check for types run 
 mypy .
+
+## Todo
+- [ ] Switch to the official ucsc catalog website 
+- [ ] Get Data on Offerings with BSOE
